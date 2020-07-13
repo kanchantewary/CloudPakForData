@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T14:09:23.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.4.2" etag="ut1PcMv8jGS_lZpHbVaJ" type="github"><diagram id="eg-KxdZGn40rmP_0OuYB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-13T14:39:14.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="TMYR8FfWLkffCa-a-Z3m" version="13.4.2" type="github">
+  <diagram id="eg-KxdZGn40rmP_0OuYB" name="Page-1">
+    <mxGraphModel dx="-16" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aGjXODq10oeUZTNC7IzL-12" value="integrate with git&lt;br&gt;(optional)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-1" target="aGjXODq10oeUZTNC7IzL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1850" y="240" />
+              <mxPoint x="1850" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-1" value="Watson Studio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="30" width="100" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-2" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="30" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-4" value="Data Virtualization Layer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="30" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-5" value="source systems" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="30" width="100" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-6" value="access source systems &lt;br&gt;through connections" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-5">
+          <mxGeometry x="0.0021" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="170" />
+              <mxPoint x="1460" y="170" />
+            </Array>
+            <mxPoint x="1380" y="170" as="sourcePoint" />
+            <mxPoint x="1620" y="170" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-8" value="Install watson studio service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-7" target="aGjXODq10oeUZTNC7IzL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="130" />
+              <mxPoint x="1350" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-7" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-10" value="create analytics project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-9" target="aGjXODq10oeUZTNC7IzL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="230" />
+              <mxPoint x="1520" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-11" value="Git" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="30" width="100" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-14" value="&lt;ol&gt;&lt;li&gt;create a Jupyter notebook to analyze data&lt;/li&gt;&lt;li&gt;create Jupyterlab IDE notebooks (Git integration is mandated)&lt;/li&gt;&lt;li&gt;Perform data preparation using Data Refinery&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-13" target="aGjXODq10oeUZTNC7IzL-1">
+          <mxGeometry x="0.4656" y="-360" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="340" />
+              <mxPoint x="1610" y="340" />
+            </Array>
+            <mxPoint x="-360" y="-360" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-15" target="aGjXODq10oeUZTNC7IzL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="440" />
+              <mxPoint x="1610" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
