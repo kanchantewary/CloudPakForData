@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T17:56:53.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="fh98RIf7qmC-Wc_RMYjY" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T17:58:24.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="k604Q5iBn7qC5-JtwFKc" version="13.4.2" type="github">
   <diagram id="eg-KxdZGn40rmP_0OuYB" name="Page-1">
     <mxGraphModel dx="-37" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,13 +55,12 @@
         <mxCell id="aGjXODq10oeUZTNC7IzL-7" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="70" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-10" value="create analytics project, add/remove collaborators, &lt;br&gt;change permissions (Viewer/Editor/Admin), delete a project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
+        <mxCell id="aGjXODq10oeUZTNC7IzL-10" value="create analytics project, add/remove collaborators, &lt;br&gt;change permissions (Viewer/Editor/Admin), delete a project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" target="aGjXODq10oeUZTNC7IzL-1">
           <mxGeometry x="0.0009" y="200" relative="1" as="geometry">
             <mxPoint x="1150" y="230" as="sourcePoint" />
             <mxPoint x="1759.5" y="213" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1390" y="213" />
-              <mxPoint x="1390" y="213" />
+              <mxPoint x="1150" y="180" />
             </Array>
             <mxPoint x="-200" y="200" as="offset" />
           </mxGeometry>
@@ -86,13 +85,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-9">
+        <mxCell id="aGjXODq10oeUZTNC7IzL-90" value="add/remove data assets" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1758" y="180" as="targetPoint" />
+            <mxPoint x="1758" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1150" y="230" />
-              <mxPoint x="1150" y="180" />
-              <mxPoint x="1758" y="180" />
+              <mxPoint x="1150" y="220" />
+              <mxPoint x="1758" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
