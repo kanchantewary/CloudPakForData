@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T16:14:41.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="TMUM91M2MkQzQZw47Yet" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T17:52:19.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="hD5LS-B_3oaWRBq4a1WN" version="13.4.2" type="github">
   <diagram id="eg-KxdZGn40rmP_0OuYB" name="Page-1">
-    <mxGraphModel dx="131" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-37" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-1" value="Watson Studio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="30" width="100" height="590" as="geometry" />
+          <mxGeometry x="1710" y="30" width="100" height="740" as="geometry" />
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-2" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1450" y="30" width="100" height="480" as="geometry" />
@@ -44,49 +44,65 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-7" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="100" width="30" height="60" as="geometry" />
+          <mxGeometry x="1090" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-10" value="create analytics project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-9" target="aGjXODq10oeUZTNC7IzL-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aGjXODq10oeUZTNC7IzL-10" value="create analytics project, add/remove collaborators, &lt;br&gt;change permissions (Viewer/Editor/Admin), delete a project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
+          <mxGeometry x="0.0009" y="200" relative="1" as="geometry">
+            <mxPoint x="1120" y="213" as="sourcePoint" />
+            <mxPoint x="1759.5" y="213" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1520" y="230" />
-              <mxPoint x="1520" y="230" />
+              <mxPoint x="1440" y="213" />
+              <mxPoint x="1440" y="213" />
             </Array>
+            <mxPoint x="-200" y="200" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-23" value="&lt;div style=&quot;text-align: left&quot;&gt;create new environment definitions&lt;/div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;specify runtime engine (&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: &amp;#34;ibm plex sans&amp;#34; , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Anaconda (Python or R), RStudio, or JupyterLab&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Spark, GPU or Hadoop&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Select hardware configuration to Elastic or&amp;nbsp;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: &amp;#34;ibm plex sans&amp;#34; , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;specify the size for CPU, GPU and RAM to reserve&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-9">
+        <mxCell id="aGjXODq10oeUZTNC7IzL-23" value="&lt;div style=&quot;text-align: left&quot;&gt;create new environment definitions&lt;/div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;specify runtime engine (&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: &amp;#34;ibm plex sans&amp;#34; , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Anaconda (Python or R), RStudio, or JupyterLab&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Spark, GPU or Hadoop&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Select hardware configuration to Elastic or&amp;nbsp;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: &amp;#34;ibm plex sans&amp;#34; , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;specify&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: &amp;#34;ibm plex sans&amp;#34; , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;the size for CPU, GPU and RAM to reserve&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0034" relative="1" as="geometry">
+            <mxPoint x="1130" y="230" as="sourcePoint" />
             <mxPoint x="1761" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1185" y="280" />
-              <mxPoint x="1761" y="280" />
+              <mxPoint x="1150" y="230" />
+              <mxPoint x="1150" y="280" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aGjXODq10oeUZTNC7IzL-25" value="can stop all active runtimes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1761" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="230" />
+              <mxPoint x="1150" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-9" value="Admin role &lt;br&gt;in the project" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="1090" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-11" value="Git" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1860" y="30" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-14" value="&lt;ol&gt;&lt;li&gt;create a Jupyter notebook to analyze data&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-13" target="aGjXODq10oeUZTNC7IzL-1">
+        <mxCell id="aGjXODq10oeUZTNC7IzL-14" value="&lt;ol&gt;&lt;li&gt;create a Jupyter notebook to analyze data&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
           <mxGeometry x="0.4656" y="-360" relative="1" as="geometry">
+            <mxPoint x="1200" y="466.0000000000001" as="sourcePoint" />
+            <mxPoint x="1759.5" y="466.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1610" y="340" />
-              <mxPoint x="1610" y="340" />
+              <mxPoint x="1610" y="466" />
+              <mxPoint x="1610" y="466" />
             </Array>
             <mxPoint x="-360" y="-360" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="1170" y="435" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-15" target="aGjXODq10oeUZTNC7IzL-1">
+        <mxCell id="aGjXODq10oeUZTNC7IzL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-15">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1759.5" y="566.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1610" y="440" />
-              <mxPoint x="1610" y="440" />
+              <mxPoint x="1610" y="566" />
+              <mxPoint x="1610" y="566" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,27 +111,29 @@
             <mxPoint x="-104.83" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="410" width="30" height="60" as="geometry" />
+        <mxCell id="aGjXODq10oeUZTNC7IzL-15" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="536" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aGjXODq10oeUZTNC7IzL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-19" target="aGjXODq10oeUZTNC7IzL-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aGjXODq10oeUZTNC7IzL-20" value="&lt;ol&gt;&lt;li&gt;Create a job (Data refinery or Python and R scripts)&lt;/li&gt;&lt;li&gt;Select the environment runtime&lt;/li&gt;&lt;li&gt;Add environment variables&lt;/li&gt;&lt;li&gt;(optional) schedule the job&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;align=left;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-19">
+          <mxGeometry x="-0.0077" y="-230" relative="1" as="geometry">
+            <mxPoint x="1759.5" y="676" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1470" y="550" />
-              <mxPoint x="1470" y="550" />
+              <mxPoint x="1470" y="676" />
+              <mxPoint x="1470" y="676" />
             </Array>
+            <mxPoint x="-230" y="-230" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="520" width="30" height="60" as="geometry" />
+          <mxGeometry x="1170" y="646" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="aGjXODq10oeUZTNC7IzL-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1400" y="419.9999999999999" as="targetPoint" />
+            <mxPoint x="1400" y="545.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGjXODq10oeUZTNC7IzL-21" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Each user can only have one active JupyterLab session per project at one time.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="950" y="369" width="150" height="50" as="geometry" />
+          <mxGeometry x="950" y="495" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
