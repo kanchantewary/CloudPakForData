@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T06:41:06.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="FQsuAnfON4MItFkhUvWo" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T06:43:32.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="c6Qg10m6KzPoyNft4jFL" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="98" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-11" value="Create virtual tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-10" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Data Virtualization&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;Admin or&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;keyword&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Data Virtualization&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;Engineer role&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
