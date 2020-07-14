@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T07:53:02.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="EYe8Bou4VuAlbIOuqOpf" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T07:58:55.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LlmsfSXFi2QQoOzdeg1h" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="98" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,13 @@
         <mxCell id="1" parent="0" />
         <mxCell id="h26CRx6ADfj_f1zQn1qs-1" value="CP4D web client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1450" y="30" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-18" value="Receives data request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-2" target="h26CRx6ADfj_f1zQn1qs-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1265" y="453" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-2" value="Data Virtualization Layer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1570" y="30" width="100" height="700" as="geometry" />
@@ -54,19 +61,19 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table in response to a data request&lt;br&gt;or as a part of&amp;nbsp; an analytics project&lt;br&gt;or as a standalone task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2">
+          <mxGeometry x="0.5466" y="-430" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1460" y="470" />
-              <mxPoint x="1460" y="470" />
+              <mxPoint x="1470" y="480" />
+              <mxPoint x="1470" y="480" />
             </Array>
+            <mxPoint x="-430" y="-430" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-17" value="Select Automatically group tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" y="490" />
-              <mxPoint x="1130" y="490" />
+              <mxPoint x="945" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,7 +107,7 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-16" value="Suggest matched tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-2" target="h26CRx6ADfj_f1zQn1qs-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1670" y="500" />
+              <mxPoint x="1670" y="520" />
               <mxPoint x="1670" y="560" />
             </Array>
           </mxGeometry>
