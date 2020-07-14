@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T12:23:28.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Jtd7M_OxqIJClgj-S72X" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T12:25:37.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="wweuuX_WmLIs-Efas95C" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="769" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,8 +83,8 @@
             <mxPoint x="-650" y="650" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-17" value="Select Automatically group tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7">
-          <mxGeometry x="-0.4469" relative="1" as="geometry">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-17" value="Select Automatically group tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7">
+          <mxGeometry x="-0.5787" relative="1" as="geometry">
             <mxPoint x="1619.5" y="625.9999999999998" as="targetPoint" />
             <Array as="points">
               <mxPoint x="635" y="600" />
@@ -173,27 +173,27 @@
             <mxPoint x="1617.9999999999995" y="776.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-24" value="backup&lt;br&gt;run&amp;nbsp;&lt;span class=&quot;ph filepath&quot;&gt;dv-backup-job&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;keyword&quot;&gt;Kubernetes&lt;/span&gt; job." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-23">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-24" value="backup&lt;br&gt;run&amp;nbsp;&lt;span class=&quot;ph filepath&quot;&gt;dv-backup-job&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;keyword&quot;&gt;Kubernetes&lt;/span&gt; job." style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-23">
           <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-158.51" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1620" y="893.3" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="980" y="776" />
-              <mxPoint x="980" y="893" />
+              <mxPoint x="710" y="776" />
+              <mxPoint x="710" y="893" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-27" value="&lt;span class=&quot;ph filepath&quot;&gt;dv-restore-versioned-job&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;keyword&quot;&gt;Kubernetes&lt;/span&gt; job to restore the &lt;span class=&quot;keyword&quot;&gt;Data Virtualization&lt;/span&gt; backup files" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-26">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-27" value="&lt;span class=&quot;ph filepath&quot;&gt;dv-restore-versioned-job&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;keyword&quot;&gt;Kubernetes&lt;/span&gt; job to restore the &lt;span class=&quot;keyword&quot;&gt;Data Virtualization&lt;/span&gt; backup files" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-26">
           <mxGeometry x="-0.2041" y="1" relative="1" as="geometry">
-            <mxPoint x="58" as="offset" />
+            <mxPoint x="-130.41" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="746" width="30" height="60" as="geometry" />
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-22" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="746" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-25" value="stop DV service&lt;br&gt;create tar file located in the &lt;span class=&quot;ph filepath&quot;&gt;/mnt/PV/bar&lt;/span&gt; directory&lt;br/&gt;of the &lt;span class=&quot;ph filepath&quot;&gt;dv-bar&lt;/span&gt; persistent volume claim (PVC)&lt;br&gt;delete the backup job&lt;br&gt;start DV service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
