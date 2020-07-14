@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T07:10:35.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="NUFGOGjSlSNnub0L3x4H" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T07:11:47.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="p6374-W8IAwhnlOsXrLr" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="98" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,12 +40,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-12" value="Install a remote connector&lt;br&gt;Ensure Java8 is installed&lt;br&gt;&lt;span class=&quot;ph filepath&quot;&gt;run dv-endpoint.sh&amp;nbsp;&lt;/span&gt;script" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-12" value="Install a remote connector&lt;br&gt;Ensure Java8 is installed&lt;br&gt;&lt;span class=&quot;ph filepath&quot;&gt;run dv-endpoint.sh&amp;nbsp;&lt;/span&gt;script" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
           <mxGeometry x="-0.2023" y="-50" relative="1" as="geometry">
-            <mxPoint x="1381" y="300" as="targetPoint" />
+            <mxPoint x="956" y="330" as="sourcePoint" />
+            <mxPoint x="1377" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1170" y="300" />
-              <mxPoint x="1170" y="300" />
+              <mxPoint x="1016" y="330" />
+              <mxPoint x="1016" y="300" />
             </Array>
             <mxPoint x="-50" y="-50" as="offset" />
           </mxGeometry>
@@ -63,6 +64,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1499" y="330" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1015" y="330" />
               <mxPoint x="1015" y="400" />
             </Array>
           </mxGeometry>
@@ -78,6 +80,7 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1015" y="330" />
               <mxPoint x="1015" y="360" />
               <mxPoint x="1502" y="360" />
             </Array>
