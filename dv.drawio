@@ -1,16 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T09:38:39.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Do1dAIalqBFptC0YfuQY" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T11:58:12.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="srrqN4a8HRN5tMnRyMLH" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
-    <mxGraphModel dx="-81" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="917" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h26CRx6ADfj_f1zQn1qs-1" value="CP4D web client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1450" y="30" width="100" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-18" value="Receives data request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-2" target="h26CRx6ADfj_f1zQn1qs-7">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-18" value="Receives data request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="h26CRx6ADfj_f1zQn1qs-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1619.5" y="505.66666666666674" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1265" y="453" />
+              <mxPoint x="1265" y="506" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -48,53 +49,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-12" value="Install a remote connector&lt;br&gt;Ensure Java8 is installed&lt;br&gt;&lt;span class=&quot;ph filepath&quot;&gt;run dv-endpoint.sh&amp;nbsp;&lt;/span&gt;script" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
-          <mxGeometry x="-0.4945" relative="1" as="geometry">
+          <mxGeometry x="-0.1219" relative="1" as="geometry">
             <mxPoint x="956" y="330" as="sourcePoint" />
-            <mxPoint x="1377" y="300" as="targetPoint" />
+            <mxPoint x="1377" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="330" />
-              <mxPoint x="1010" y="300" />
+              <mxPoint x="710" y="330" />
+              <mxPoint x="710" y="250" />
+              <mxPoint x="1377" y="250" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table in response to a data request&lt;br&gt;or as a part of&amp;nbsp; an analytics project&lt;br&gt;or as a standalone task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table in response to a data request&lt;br&gt;or as a part of&amp;nbsp; an analytics project&lt;br&gt;or as a standalone task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7">
           <mxGeometry x="0.5466" y="-430" relative="1" as="geometry">
+            <mxPoint x="1619.5" y="532.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1470" y="480" />
-              <mxPoint x="1470" y="480" />
+              <mxPoint x="1470" y="533" />
+              <mxPoint x="1470" y="533" />
             </Array>
             <mxPoint x="-430" y="-430" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-17" value="Select Automatically group tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-17" value="Select Automatically group tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1619.5" y="562.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="945" y="510" />
+              <mxPoint x="945" y="563" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="440" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="493" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-14" value="Discover data sources (would be automatically arrive if standard ports are used)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
-          <mxGeometry x="1" y="250" relative="1" as="geometry">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-14" value="add users to data virtualization service&lt;br&gt;grant/revoke access to virtual objects, assign one of the available roles&lt;br&gt;&lt;ul&gt;&lt;li&gt;data virtualization admin,&amp;nbsp;&lt;/li&gt;&lt;li&gt;data virtualization engineer&lt;/li&gt;&lt;li&gt;data virtualization user&lt;/li&gt;&lt;li&gt;data virtualization steward&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
+          <mxGeometry x="1" y="680" relative="1" as="geometry">
             <mxPoint x="1500" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1500" y="330" />
             </Array>
-            <mxPoint x="-250" as="offset" />
+            <mxPoint x="-680" y="-680" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually &lt;br&gt;if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
-          <mxGeometry x="-0.6154" relative="1" as="geometry">
+          <mxGeometry x="-0.501" relative="1" as="geometry">
             <mxPoint x="1502" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="330" />
-              <mxPoint x="1010" y="360" />
+              <mxPoint x="710" y="330" />
+              <mxPoint x="710" y="400" />
+              <mxPoint x="1502" y="400" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -102,8 +107,8 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1010" y="330" />
-              <mxPoint x="1010" y="400" />
+              <mxPoint x="710" y="330" />
+              <mxPoint x="710" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,32 +118,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-10" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;DV&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;Admin or&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;keyword&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;DV&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;Engineer role&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="286" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="286" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-13" value="source systems" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="25" width="100" height="490" as="geometry" />
+          <mxGeometry x="1220" y="30" width="100" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-16" value="Suggest matched tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-2" target="h26CRx6ADfj_f1zQn1qs-2">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-16" value="Suggest matched tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1619.3888888888887" y="572.9999999999998" as="sourcePoint" />
+            <mxPoint x="1619.3888888888887" y="632.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1660" y="520" />
-              <mxPoint x="1660" y="580" />
+              <mxPoint x="1660" y="573" />
+              <mxPoint x="1660" y="633" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-22" target="h26CRx6ADfj_f1zQn1qs-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1617.9999999999995" y="713.74" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-24" value="backup&lt;br&gt;run&amp;nbsp;&lt;span class=&quot;ph filepath&quot;&gt;dv-backup-job&lt;/span&gt;&lt;br/&gt;&lt;span class=&quot;keyword&quot;&gt;Kubernetes&lt;/span&gt; job." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-23">
           <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-22" target="h26CRx6ADfj_f1zQn1qs-2">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="830.3" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="980" y="660" />
-              <mxPoint x="980" y="777" />
+              <mxPoint x="980" y="713" />
+              <mxPoint x="980" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,13 +158,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="630" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="683" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-25" value="stop DV service&lt;br&gt;create tar file located in the &lt;span class=&quot;ph filepath&quot;&gt;/mnt/PV/bar&lt;/span&gt; directory&lt;br/&gt;of the &lt;span class=&quot;ph filepath&quot;&gt;dv-bar&lt;/span&gt; persistent volume claim (PVC)&lt;br&gt;delete the backup job&lt;br&gt;start DV service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-2" target="h26CRx6ADfj_f1zQn1qs-2">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-25" value="stop DV service&lt;br&gt;create tar file located in the &lt;span class=&quot;ph filepath&quot;&gt;/mnt/PV/bar&lt;/span&gt; directory&lt;br/&gt;of the &lt;span class=&quot;ph filepath&quot;&gt;dv-bar&lt;/span&gt; persistent volume claim (PVC)&lt;br&gt;delete the backup job&lt;br&gt;start DV service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1619.3888888888887" y="722.9999999999998" as="sourcePoint" />
+            <mxPoint x="1619.3888888888887" y="812.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1660" y="670" />
-              <mxPoint x="1660" y="760" />
+              <mxPoint x="1660" y="723" />
+              <mxPoint x="1660" y="813" />
             </Array>
           </mxGeometry>
         </mxCell>
