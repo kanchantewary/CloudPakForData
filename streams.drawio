@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T18:50:04.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KYC1JG26tMh9QbRFpjx8" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T19:04:15.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="qyo_8MGiSrxG4c58PgVy" version="13.4.2" type="github">
   <diagram id="_AXpcyA0Q4AVw2A8-K8P" name="Page-1">
     <mxGraphModel dx="131" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="M9JW5XiTX6uAJ15VKad8-13" value="Service instance creator/Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1770" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M9JW5XiTX6uAJ15VKad8-16" value="Manage streams Jobs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M9JW5XiTX6uAJ15VKad8-15" target="M9JW5XiTX6uAJ15VKad8-1">
+        <mxCell id="M9JW5XiTX6uAJ15VKad8-16" value="Manage streams Jobs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="M9JW5XiTX6uAJ15VKad8-15" target="M9JW5XiTX6uAJ15VKad8-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2320" y="440" as="targetPoint" />
             <Array as="points">
@@ -107,7 +107,7 @@
         <mxCell id="M9JW5XiTX6uAJ15VKad8-15" value="Service instance creator/Administrator/&lt;br&gt;user who created the Job" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1770" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M9JW5XiTX6uAJ15VKad8-19" value="Develop application using Streams Flow editor" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M9JW5XiTX6uAJ15VKad8-18">
+        <mxCell id="M9JW5XiTX6uAJ15VKad8-19" value="&lt;div style=&quot;text-align: left&quot;&gt;Develop application using Streams Flow editor&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Import a streams flow file&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Use a wizard or example flows to get started&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Install additional python libraries if required&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M9JW5XiTX6uAJ15VKad8-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2403" y="560" as="targetPoint" />
           </mxGeometry>
