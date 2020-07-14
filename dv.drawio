@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T12:27:45.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="rk91Nl4VMsavi4fTFQJ5" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T12:30:30.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="leGI7p0HpfOfuP_Nog2u" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="769" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,12 +106,12 @@
           <mxGeometry x="590" y="550" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-14" value="add users to data virtualization service&lt;br&gt;grant/revoke access to virtual objects, assign one of the available roles&lt;br&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;data virtualization admin,&amp;nbsp;&lt;/li&gt;&lt;li&gt;data virtualization engineer&lt;/li&gt;&lt;li&gt;data virtualization user&lt;/li&gt;&lt;li&gt;data virtualization steward&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
-          <mxGeometry x="1" y="680" relative="1" as="geometry">
+          <mxGeometry x="1" y="700" relative="1" as="geometry">
             <mxPoint x="1500" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1500" y="330" />
             </Array>
-            <mxPoint x="-680" y="-680" as="offset" />
+            <mxPoint x="-700" y="-700" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually &lt;br&gt;if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
