@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T06:30:16.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="TLeR9R2cb7zCfBZXvU9U" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T06:32:57.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="hXtUM9KdCB18uP0TEOjM" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
-    <mxGraphModel dx="572" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="98" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-1" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-1" value="CP4D web client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1450" y="30" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-2" value="Data Virtualization Layer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
@@ -23,6 +23,17 @@
             <mxPoint x="1620" y="170" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-6" value="Import JDBC drivers for data sources" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1502" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1502" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="90" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
