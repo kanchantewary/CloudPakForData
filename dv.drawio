@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T07:11:47.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="p6374-W8IAwhnlOsXrLr" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T07:53:02.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="EYe8Bou4VuAlbIOuqOpf" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="98" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="1450" y="30" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-2" value="Data Virtualization Layer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="30" width="100" height="480" as="geometry" />
+          <mxGeometry x="1570" y="30" width="100" height="700" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-3" value="Remote data source" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1330" y="30" width="100" height="490" as="geometry" />
@@ -54,20 +54,24 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create connections" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="190" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-11" value="Create virtual tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1499" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1015" y="330" />
-              <mxPoint x="1015" y="400" />
+              <mxPoint x="1460" y="470" />
+              <mxPoint x="1460" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-17" value="Select Automatically group tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="490" />
+              <mxPoint x="1130" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="440" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-14" value="Discover data sources (would be automatically arrive if standard ports are used)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
           <mxGeometry relative="1" as="geometry">
@@ -77,8 +81,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1502" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1015" y="330" />
               <mxPoint x="1015" y="360" />
@@ -91,6 +96,14 @@
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-13" value="source systems" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1220" y="25" width="100" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-16" value="Suggest matched tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-2" target="h26CRx6ADfj_f1zQn1qs-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1670" y="500" />
+              <mxPoint x="1670" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
