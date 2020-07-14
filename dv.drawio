@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T11:58:12.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="srrqN4a8HRN5tMnRyMLH" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T12:08:41.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="XFyBvjgfcPIe5H6GKRRx" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="917" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,11 +24,10 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-4" value="access source systems &lt;br&gt;through connections" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=11;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-3">
           <mxGeometry x="0.0021" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1460" y="170" />
-              <mxPoint x="1460" y="170" />
+              <mxPoint x="1620" y="190" />
             </Array>
             <mxPoint x="1380" y="170" as="sourcePoint" />
-            <mxPoint x="1620" y="170" as="targetPoint" />
+            <mxPoint x="1620" y="190" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -36,15 +35,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1502" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1502" y="120" />
+              <mxPoint x="1502" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-9" value="Install Data Virtualization service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-5" target="h26CRx6ADfj_f1zQn1qs-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1140" y="134" />
-              <mxPoint x="1140" y="134" />
+              <mxPoint x="1500" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -60,8 +58,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-28" value="Provision the instance:&lt;br&gt;&lt;ul&gt;&lt;li&gt;define number of worker nodes&lt;/li&gt;&lt;li&gt;define number of cores to allocate to each worker node&lt;/li&gt;&lt;li&gt;specify amount of memory to allocate to each worker node&lt;/li&gt;&lt;li&gt;use existing PVC or create new claim&lt;/li&gt;&lt;li&gt;configure storage for your data&lt;br/&gt;caches&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-5" target="h26CRx6ADfj_f1zQn1qs-1">
+          <mxGeometry x="-0.5365" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="170" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="79" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table in response to a data request&lt;br&gt;or as a part of&amp;nbsp; an analytics project&lt;br&gt;or as a standalone task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-7">
           <mxGeometry x="0.5466" y="-430" relative="1" as="geometry">
