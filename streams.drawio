@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T18:22:39.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="EiUDg2JWGltvPDPribuk" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T18:32:40.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_PzuvNE1kQWwClAtZD8d" version="13.4.2" type="github">
   <diagram id="_AXpcyA0Q4AVw2A8-K8P" name="Page-1">
     <mxGraphModel dx="131" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,6 +29,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1785" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9JW5XiTX6uAJ15VKad8-12" value="(optional) Install Streams Flows service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M9JW5XiTX6uAJ15VKad8-2" target="M9JW5XiTX6uAJ15VKad8-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1785" y="283" />
+              <mxPoint x="2075" y="283" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,6 +74,18 @@
               <mxPoint x="2440" y="260" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M9JW5XiTX6uAJ15VKad8-14" value="manage a service instance:&lt;br&gt;check status of the service instance, &lt;br&gt;manage access, &lt;br&gt;edit or delete the instance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.612;entryDx=0;entryDy=0;entryPerimeter=0;align=left;" edge="1" parent="1" source="M9JW5XiTX6uAJ15VKad8-13" target="M9JW5XiTX6uAJ15VKad8-1">
+          <mxGeometry x="-0.1313" y="110" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2060" y="340" />
+              <mxPoint x="2060" y="340" />
+            </Array>
+            <mxPoint x="-110" y="110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9JW5XiTX6uAJ15VKad8-13" value="Service instance creator/Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="310" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
