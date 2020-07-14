@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T12:18:03.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ckXY4iKzgQN_MkIo-zAx" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T12:23:28.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Jtd7M_OxqIJClgj-S72X" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="769" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually &lt;br&gt;if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
-          <mxGeometry x="-0.501" relative="1" as="geometry">
+          <mxGeometry x="-0.478" relative="1" as="geometry">
             <mxPoint x="1502" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="710" y="330" />
@@ -128,14 +128,28 @@
             <mxPoint x="-91.08" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-31" value="create/deactivate cache to improve query performance&lt;br&gt;define refresh rate (hourly/daily/weekly/monthly)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
-          <mxGeometry x="-0.3284" relative="1" as="geometry">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-31" value="create/deactivate cache to improve query performance&lt;br&gt;define refresh rate (hourly/daily/weekly/monthly)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-2">
+          <mxGeometry x="-0.3983" relative="1" as="geometry">
             <mxPoint x="710" y="530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="710" y="330" />
               <mxPoint x="710" y="504" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="330" />
+              <mxPoint x="710" y="534" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-33" value="view, search, and filter queries that were run in the service" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-32">
+          <mxGeometry x="-0.3396" y="2" relative="1" as="geometry">
+            <mxPoint x="-14.319999999999993" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-10" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Data virtualization admin&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
