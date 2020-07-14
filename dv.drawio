@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T12:15:23.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="4zJTnUbtghcrJ6w7Xm3v" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T12:18:03.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ckXY4iKzgQN_MkIo-zAx" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
-    <mxGraphModel dx="444" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,16 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-21" value="Create schema&lt;br&gt;grant&amp;nbsp;IMPLICIT_SCHEMA permissions &lt;br&gt;to a user with&amp;nbsp;&lt;span class=&quot;keyword&quot;&gt;DV&lt;/span&gt; Engineer role for each project" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-20">
           <mxGeometry x="-0.209" relative="1" as="geometry">
             <mxPoint x="-91.08" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-31" value="create/deactivate cache to improve query performance&lt;br&gt;define refresh rate (hourly/daily/weekly/monthly)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
+          <mxGeometry x="-0.3284" relative="1" as="geometry">
+            <mxPoint x="710" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="330" />
+              <mxPoint x="710" y="504" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-10" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Data virtualization admin&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
