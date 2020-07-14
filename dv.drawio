@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T09:37:31.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="SSY9mzhBEBH5V04uROuN" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T09:38:18.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="pUE7mMlp6tXwwjr49uKT" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="-81" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,14 +48,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-12" value="Install a remote connector&lt;br&gt;Ensure Java8 is installed&lt;br&gt;&lt;span class=&quot;ph filepath&quot;&gt;run dv-endpoint.sh&amp;nbsp;&lt;/span&gt;script" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
-          <mxGeometry x="-0.2023" y="-50" relative="1" as="geometry">
+          <mxGeometry x="-0.4945" relative="1" as="geometry">
             <mxPoint x="956" y="330" as="sourcePoint" />
             <mxPoint x="1377" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1010" y="330" />
               <mxPoint x="1010" y="300" />
             </Array>
-            <mxPoint x="-50" y="-50" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -89,13 +89,14 @@
             <mxPoint x="-250" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually &lt;br&gt;if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
+          <mxGeometry x="-0.6154" relative="1" as="geometry">
             <mxPoint x="1502" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1010" y="330" />
               <mxPoint x="1010" y="360" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1">
@@ -106,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-21" value="Create schema&lt;br&gt;grant&amp;nbsp;IMPLICIT_SCHEMA permissions to a user with&amp;nbsp;&lt;span class=&quot;keyword&quot;&gt;DV&lt;/span&gt; Engineer role for each project" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-20">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-21" value="Create schema&lt;br&gt;grant&amp;nbsp;IMPLICIT_SCHEMA permissions &lt;br&gt;to a user with&amp;nbsp;&lt;span class=&quot;keyword&quot;&gt;DV&lt;/span&gt; Engineer role for each project" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h26CRx6ADfj_f1zQn1qs-20">
           <mxGeometry x="-0.209" relative="1" as="geometry">
             <mxPoint x="-91.08" as="offset" />
           </mxGeometry>
