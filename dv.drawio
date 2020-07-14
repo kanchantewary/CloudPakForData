@@ -1,18 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T12:14:15.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="alE2nxRdyU9ZmdjF9_7h" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T12:15:23.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="4zJTnUbtghcrJ6w7Xm3v" version="13.4.2" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
-    <mxGraphModel dx="769" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="444" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h26CRx6ADfj_f1zQn1qs-1" value="CP4D web client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1450" y="30" width="100" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-18" value="Receives data request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="h26CRx6ADfj_f1zQn1qs-7">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-18" value="Receives data request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="h26CRx6ADfj_f1zQn1qs-7">
           <mxGeometry x="0.5031" relative="1" as="geometry">
-            <mxPoint x="1619.5" y="568.6666666666667" as="sourcePoint" />
+            <mxPoint x="1619" y="563" as="sourcePoint" />
+            <mxPoint x="650" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1620" y="563" />
-              <mxPoint x="639" y="563" />
+              <mxPoint x="630" y="563" />
+              <mxPoint x="630" y="563" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -86,13 +87,14 @@
           <mxGeometry x="-0.4469" relative="1" as="geometry">
             <mxPoint x="1619.5" y="625.9999999999998" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="635" y="600" />
               <mxPoint x="635" y="626" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="556" width="30" height="60" as="geometry" />
+          <mxGeometry x="590" y="550" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-14" value="add users to data virtualization service&lt;br&gt;grant/revoke access to virtual objects, assign one of the available roles&lt;br&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li&gt;data virtualization admin,&amp;nbsp;&lt;/li&gt;&lt;li&gt;data virtualization engineer&lt;/li&gt;&lt;li&gt;data virtualization user&lt;/li&gt;&lt;li&gt;data virtualization steward&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="h26CRx6ADfj_f1zQn1qs-10">
           <mxGeometry x="1" y="680" relative="1" as="geometry">
