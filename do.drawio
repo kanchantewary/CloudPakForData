@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T07:22:25.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="93XR0-4i101mQDmiYKpd" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T07:27:47.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="D0C29r0OgWHBhOkDD1CE" version="13.4.3" type="github">
   <diagram id="A9qVFweSYa7ZatIyQetM" name="Page-1">
-    <mxGraphModel dx="-491" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-866" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-1" value="Streams" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-1" value="Decision Optimization" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2350" y="40" width="100" height="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-4" value="Validate the prerequisites" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-2" target="YG3Tn6ta5WFFAVIdYNT1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-3" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="40" width="100" height="1350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
