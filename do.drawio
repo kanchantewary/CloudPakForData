@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T10:55:31.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="M24SeWmEUjS1pMpzAM1A" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T11:07:26.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="YI-OFzmPbUy2qQ8Bbkd8" version="13.4.3" type="github">
   <diagram id="A9qVFweSYa7ZatIyQetM" name="Page-1">
     <mxGraphModel dx="-866" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,10 +63,41 @@
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-14" value="import data files (excel, csv, json)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2080" y="399.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2080" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-15" value="Import a scenario .zip file (model + data)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2100" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2100" y="460" />
+              <mxPoint x="2100" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-16" value="Import an OPL model from a file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2120" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2120" y="480" />
+              <mxPoint x="2120" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-17" value="Import a python model from a file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1780" y="500" />
+              <mxPoint x="2140" y="500" />
+              <mxPoint x="2140" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-13" value="local storage" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="410" width="100" height="80" as="geometry" />
+          <mxGeometry x="1730" y="426" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
