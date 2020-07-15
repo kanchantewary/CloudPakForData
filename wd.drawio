@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T18:51:17.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="6S7FOnY1Nxz6tFJOu2tK" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T18:58:01.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="2lg9If-TYBGreSTAszxT" version="13.4.4" type="github">
   <diagram id="9eVwQrIfi0mKTF7IYHGo" name="Page-1">
     <mxGraphModel dx="834" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Create a collection/use an existing collection, select crawl schedule&lt;br&gt;Define whether to&amp;nbsp;run OCR (Optical Character Recognition)&amp;nbsp;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-10">
+        <mxCell id="RS6-3sI64E32yyafjish-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Create a collection/use an existing collection, select crawl schedule&lt;br&gt;Define whether to&amp;nbsp;run OCR (Optical Character Recognition)&amp;nbsp;&lt;br&gt;consider limitations, authentication and hardware configurations to support required number of collections&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-10">
           <mxGeometry x="-0.6351" relative="1" as="geometry">
             <mxPoint x="780" y="330" as="targetPoint" />
             <Array as="points">
