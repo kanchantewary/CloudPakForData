@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T13:51:50.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ZXoH1vQGcg7dbVm3thkW" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T13:53:44.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="DSR4eoRJ8CQkrptwQEXn" version="13.4.3" type="github">
   <diagram id="A9qVFweSYa7ZatIyQetM" name="Page-1">
     <mxGraphModel dx="-16" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-46" value="Deploy the model using the model URL and specify number of nodes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-43" target="YG3Tn6ta5WFFAVIdYNT1-41">
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-46" value="Deploy the model using the model URL and specify number of nodes&lt;br&gt;Monitor using the deployment id returned" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-43" target="YG3Tn6ta5WFFAVIdYNT1-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1350" y="1382" />
