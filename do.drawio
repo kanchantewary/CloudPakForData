@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T13:40:58.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="kCuPoHpPqjgntKux7a1M" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T13:51:50.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ZXoH1vQGcg7dbVm3thkW" version="13.4.3" type="github">
   <diagram id="A9qVFweSYa7ZatIyQetM" name="Page-1">
-    <mxGraphModel dx="359" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-16" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Administrator&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1335" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-42" value="Once model is saved&lt;br&gt;deploy using WML" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-1" target="YG3Tn6ta5WFFAVIdYNT1-41">
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-42" value="&lt;div style=&quot;text-align: left&quot;&gt;Once model is saved&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;deploy using WML&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;using UI&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;using Watson ML APIs&lt;br&gt;using WML Python client&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-1" target="YG3Tn6ta5WFFAVIdYNT1-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2470" y="1100" />
@@ -181,7 +181,28 @@
           <mxGeometry x="1310" y="1136" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-41" value="Watson Machine Learning" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="40" width="100" height="1350" as="geometry" />
+          <mxGeometry x="2590" y="40" width="100" height="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-44" value="&lt;b&gt;Prepare for deployment&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Create a tar.gz or zip file from the DO model files, settings (optional) and common data&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Define hardware configuration&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Define runtime version&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Define model type&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Upload the model archive in WML&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-43" target="YG3Tn6ta5WFFAVIdYNT1-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-45" value="model URL is returned" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-43" target="YG3Tn6ta5WFFAVIdYNT1-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="1310" />
+              <mxPoint x="1390" y="1359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-46" value="Deploy the model using the model URL and specify number of nodes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-43" target="YG3Tn6ta5WFFAVIdYNT1-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="1382" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-43" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="1260" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
