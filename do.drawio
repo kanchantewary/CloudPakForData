@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T07:27:47.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="D0C29r0OgWHBhOkDD1CE" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T07:31:50.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="HZAL7lXJs6OKzuPjHA-r" version="13.4.3" type="github">
   <diagram id="A9qVFweSYa7ZatIyQetM" name="Page-1">
     <mxGraphModel dx="-866" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,14 +7,24 @@
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-1" value="Decision Optimization" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2350" y="40" width="100" height="1350" as="geometry" />
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-4" value="Validate the prerequisites" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-2" target="YG3Tn6ta5WFFAVIdYNT1-3">
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-4" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Validate the prerequisites&lt;br&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50)&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline&quot;&gt;Watson Machine Learning&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&amp;nbsp;and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50)&quot;&gt;Watson Studio&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&amp;nbsp;already installed&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-2" target="YG3Tn6ta5WFFAVIdYNT1-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-6" value="Install Decision Optimization using cpd tool" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-2" target="YG3Tn6ta5WFFAVIdYNT1-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1765" y="163" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1750" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-3" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2220" y="40" width="100" height="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="190" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
