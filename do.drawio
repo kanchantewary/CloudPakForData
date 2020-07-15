@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T13:20:24.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="bsjx6_orjrAKFsEts56C" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T13:36:27.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="XXPbAnPBzprXh45Cx_y6" version="13.4.3" type="github">
   <diagram id="A9qVFweSYa7ZatIyQetM" name="Page-1">
-    <mxGraphModel dx="359" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-159" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,10 +51,10 @@
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1335" y="190" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-12" value="Develop models using model builder&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Create DO model in project&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Prepare data&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Run model&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Explore solution&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Run new scenario&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Deploy a model scenario&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-23">
-          <mxGeometry x="0.3195" relative="1" as="geometry">
-            <mxPoint x="1930" y="380" as="sourcePoint" />
-            <mxPoint x="2402" y="340" as="targetPoint" />
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-12" value="&lt;b&gt;Develop models using model builder&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Create a project.&lt;/li&gt;&lt;li&gt;Add data to the project.&lt;/li&gt;&lt;li&gt;Add a Decision Optimization experiment&amp;nbsp;&lt;/li&gt;&lt;li&gt;Select and import your data into the scenario.&lt;/li&gt;&lt;li&gt;Create or import your Python model.&lt;/li&gt;&lt;li&gt;Run the model to solve it and explore the solution.&lt;/li&gt;&lt;li&gt;Copy the scenario and edit the data in the context of the new scenario.&lt;/li&gt;&lt;li&gt;Solve the new scenario to see the impact of the changes to data.&lt;/li&gt;&lt;li&gt;Save a model ready for deployment in Watson Machine Learning.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=left;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-23">
+          <mxGeometry x="-0.8394" relative="1" as="geometry">
+            <mxPoint x="1930" y="440" as="sourcePoint" />
+            <mxPoint x="2402" y="400" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -62,47 +62,41 @@
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-11" target="YG3Tn6ta5WFFAVIdYNT1-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="310" width="30" height="60" as="geometry" />
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-11" value="&lt;font style=&quot;font-size: 11px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-14" value="import data files (excel, csv, json)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-14" value="import data files (excel, csv, json)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.949;exitY=0.143;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2080" y="399.9999999999999" as="targetPoint" />
+            <mxPoint x="1720" y="480" as="targetPoint" />
+            <mxPoint x="1397.9" y="534.44" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2080" y="440" />
+              <mxPoint x="1398" y="537" />
+              <mxPoint x="1720" y="537" />
+              <mxPoint x="1720" y="497" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-15" value="Import a scenario .zip file (model + data)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-15" value="Import a scenario .zip file (model + data)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.85;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2100" y="400" as="targetPoint" />
+            <mxPoint x="1740" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2100" y="460" />
-              <mxPoint x="2100" y="400" />
+              <mxPoint x="1400" y="557" />
+              <mxPoint x="1740" y="557" />
+              <mxPoint x="1740" y="497" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-16" value="Import an OPL model from a file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-17" value="Import a python model from a file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.65;exitY=0.838;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2120" y="400" as="targetPoint" />
+            <mxPoint x="1760" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2120" y="480" />
-              <mxPoint x="2120" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-17" value="Import a python model from a file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2140" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1780" y="500" />
-              <mxPoint x="2140" y="500" />
-              <mxPoint x="2140" y="400" />
+              <mxPoint x="1380" y="580" />
+              <mxPoint x="1760" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-13" value="local storage" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="426" width="100" height="80" as="geometry" />
+          <mxGeometry x="1315" y="523" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-19" value="&lt;font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Using modelling assistant - No OR knowledge is required&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;ol style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Create an empty project&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Associate a new or existing deployment space&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Add a DO experiment&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Add and import data into your scenario&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;prepare data&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;select a decision domain (&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Scheduling&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Resource Assignment&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;S&lt;/span&gt;&lt;/font&gt;election and Allocation&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&amp;nbsp;and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50)&quot;&gt;Supply and Demand)&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;define objective and constraints&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;run the model&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;examine a new scenario with an additional constraint. Refer suggestions&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Explore visualizations&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50) ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;generate a Python&amp;nbsp;&lt;span class=&quot;keyword&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;notebook&lt;/span&gt;&lt;span style=&quot;font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;from your model&amp;nbsp;if required&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;margin: 0px ; padding: 0px ; border: 0px ; vertical-align: baseline ; color: rgb(50 , 50 , 50)&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-family: , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Save the model for deployment&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-25" target="YG3Tn6ta5WFFAVIdYNT1-1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,11 +126,52 @@
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-20" value="&lt;font style=&quot;font-size: 11px&quot;&gt;CP4D &lt;br&gt;data assets&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1315" y="880" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="300" width="80" height="80" as="geometry" />
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-23" value="&lt;font style=&quot;font-size: 10px&quot;&gt;If Python model &lt;br&gt;is preferred&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="340" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YG3Tn6ta5WFFAVIdYNT1-25" value="&lt;font style=&quot;font-size: 11px&quot;&gt;If OR knowledge &lt;br&gt;is lacking or UI is &lt;br&gt;preferred&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="658" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-31" target="YG3Tn6ta5WFFAVIdYNT1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="1025" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-34" value="Create or import OPL models from file or &lt;br&gt;import a scenario zip file containing OPL model + data&lt;br&gt;declare tupleset for each tables imported" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-32" target="YG3Tn6ta5WFFAVIdYNT1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-32" value="If OPL modelling is preferred" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="995" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-36" value="import data files (excel, csv, json)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1870" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1870" y="1150" />
+              <mxPoint x="1870" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-37" value="Import a scenario .zip file (model + data)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1890" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1890" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-38" value="Import an OPL model from a file" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="YG3Tn6ta5WFFAVIdYNT1-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1910" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1910" y="1190" />
+              <mxPoint x="1910" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YG3Tn6ta5WFFAVIdYNT1-40" value="local storage&lt;br&gt;or CP4D data assets" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1136" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
