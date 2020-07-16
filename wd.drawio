@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T15:01:35.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="QJi8Ti-kACNxwDfWFCJm" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-16T15:09:43.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="5_mVDLTXsmrEKWnV3dhO" version="13.4.4" type="github">
   <diagram id="9eVwQrIfi0mKTF7IYHGo" name="Page-1">
     <mxGraphModel dx="691" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,10 +32,10 @@
         <mxCell id="RS6-3sI64E32yyafjish-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;cluster administrator&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="140" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-2" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="RS6-3sI64E32yyafjish-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;CP4D cluster&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="100" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-7" value="Watson Discovery" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="RS6-3sI64E32yyafjish-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Watson Discovery&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="80" width="100" height="700" as="geometry" />
         </mxCell>
         <mxCell id="RS6-3sI64E32yyafjish-13" value="uploaded by user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RS6-3sI64E32yyafjish-8" edge="1">
@@ -72,11 +72,10 @@
         <mxCell id="RS6-3sI64E32yyafjish-14" value="&lt;font style=&quot;font-size: 11px&quot;&gt;documents in &lt;br&gt;remote data source &lt;br&gt;through CP4D&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P_0uUf7q-fleCiMruKBS-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;WD crawls the documents &lt;br&gt;&lt;span style=&quot;color: rgb(45 , 63 , 73)&quot;&gt;Crawling is the process of systematically browsing and &lt;br&gt;retrieving documents from the specified start location&lt;/span&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-7" target="RS6-3sI64E32yyafjish-7">
+        <mxCell id="P_0uUf7q-fleCiMruKBS-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;WD crawls the documents &lt;br&gt;&lt;span style=&quot;color: rgb(45 , 63 , 73)&quot;&gt;Crawling is the process of systematically browsing and &lt;br&gt;retrieving documents from the specified start location&lt;/span&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-7" target="P_0uUf7q-fleCiMruKBS-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="840" y="340" />
-              <mxPoint x="800" y="400" />
+              <mxPoint x="890" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,8 +85,11 @@
         <mxCell id="P_0uUf7q-fleCiMruKBS-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="540" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P_0uUf7q-fleCiMruKBS-4" value="Watson NLU" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="P_0uUf7q-fleCiMruKBS-4" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Watson Knowledge Catalog&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="910" y="80" width="100" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="P_0uUf7q-fleCiMruKBS-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Task&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
