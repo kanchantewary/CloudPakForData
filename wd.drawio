@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T15:12:07.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="HKnYJmGkGz6maBLT4-iA" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-16T15:26:01.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ARLFGjAWS3J8ll-kEiTM" version="13.4.4" type="github">
   <diagram id="9eVwQrIfi0mKTF7IYHGo" name="Page-1">
     <mxGraphModel dx="691" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P_0uUf7q-fleCiMruKBS-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Smart Document Understanding (SDU)&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="P_0uUf7q-fleCiMruKBS-7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;built in NLP&lt;br&gt;extract enrichment&lt;br&gt;&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="830" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
