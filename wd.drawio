@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T15:40:06.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="fe8G9uBsZ7ZYhiM4b7qV" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-16T16:20:43.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="03YRqYwZz77F9x3K6Sn6" version="13.4.4" type="github">
   <diagram id="9eVwQrIfi0mKTF7IYHGo" name="Page-1">
-    <mxGraphModel dx="691" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,8 +89,16 @@
         <mxCell id="P_0uUf7q-fleCiMruKBS-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="626" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P_0uUf7q-fleCiMruKBS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_0uUf7q-fleCiMruKBS-4" target="RS6-3sI64E32yyafjish-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="240" />
+              <mxPoint x="890" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P_0uUf7q-fleCiMruKBS-4" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Watson Knowledge Catalog&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="910" y="80" width="100" height="700" as="geometry" />
+          <mxGeometry x="905" y="80" width="100" height="700" as="geometry" />
         </mxCell>
         <mxCell id="P_0uUf7q-fleCiMruKBS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P_0uUf7q-fleCiMruKBS-7" target="RS6-3sI64E32yyafjish-7">
           <mxGeometry relative="1" as="geometry">
@@ -103,6 +111,23 @@
         </mxCell>
         <mxCell id="P_0uUf7q-fleCiMruKBS-7" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Built in NLP&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;extract enrichments&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Entity [People, companies, organizations, cities, and geographic features]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Sentiment [positive or negative]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Keyword&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Concept&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Classification - [hierarchy of categories]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Relationships&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Emotion [anger, disgust, fear, joy, and sadness]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;arcSize=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="830" y="410" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="P_0uUf7q-fleCiMruKBS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_0uUf7q-fleCiMruKBS-10" target="P_0uUf7q-fleCiMruKBS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_0uUf7q-fleCiMruKBS-10" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="740" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_0uUf7q-fleCiMruKBS-13" value="Discovery APIs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="P_0uUf7q-fleCiMruKBS-11" target="RS6-3sI64E32yyafjish-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="770" />
+              <mxPoint x="610" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_0uUf7q-fleCiMruKBS-11" value="App" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
