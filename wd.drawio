@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T18:58:01.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="2lg9If-TYBGreSTAszxT" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-16T04:47:52.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="301cnILWsvXih0FzRny-" version="13.4.4" type="github">
   <diagram id="9eVwQrIfi0mKTF7IYHGo" name="Page-1">
-    <mxGraphModel dx="834" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RS6-3sI64E32yyafjish-4" value="prepare for installation: &lt;br&gt;prepare override file if WD is being installed for production &lt;br&gt;and if content intelligence is required" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-1">
+        <mxCell id="RS6-3sI64E32yyafjish-4" value="prepare for installation: &lt;br&gt;prepare override file if WD is being installed for production &lt;br&gt;and if content intelligence is required" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="1" source="RS6-3sI64E32yyafjish-1" edge="1">
           <mxGeometry x="-0.0566" y="-120" relative="1" as="geometry">
             <mxPoint x="650" y="150" as="targetPoint" />
             <Array as="points">
@@ -13,14 +13,14 @@
             <mxPoint x="-120" y="-120" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-5" value="Install the service using cpd utility" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-1" target="RS6-3sI64E32yyafjish-2">
+        <mxCell id="RS6-3sI64E32yyafjish-5" value="Install the service using cpd utility" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RS6-3sI64E32yyafjish-1" target="RS6-3sI64E32yyafjish-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="193" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-6" value="&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Provision the service, set access levels, and create required connections&lt;/font&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-1">
+        <mxCell id="RS6-3sI64E32yyafjish-6" value="&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Provision the service, set access levels, and create required connections&lt;/font&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RS6-3sI64E32yyafjish-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="651" y="230" as="targetPoint" />
             <Array as="points">
@@ -29,29 +29,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;cluster administrator&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="RS6-3sI64E32yyafjish-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;cluster administrator&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="140" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-2" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="RS6-3sI64E32yyafjish-2" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="100" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-7" value="Watson Discovery" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="RS6-3sI64E32yyafjish-7" value="Watson Discovery" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="80" width="100" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-13" value="uploaded by user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-8">
+        <mxCell id="RS6-3sI64E32yyafjish-13" value="uploaded by user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RS6-3sI64E32yyafjish-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-8" value="&lt;font style=&quot;font-size: 11px&quot;&gt;documents in &lt;br&gt;local storage&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RS6-3sI64E32yyafjish-8" value="&lt;font style=&quot;font-size: 11px&quot;&gt;documents in &lt;br&gt;local storage&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="380" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-11" value="Create a project&amp;nbsp;assign project type: (Document Retrieval, &lt;br&gt;Conversational Search, Content Mining, or Custom)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-10" target="RS6-3sI64E32yyafjish-7">
+        <mxCell id="RS6-3sI64E32yyafjish-11" value="Create a project&amp;nbsp;assign project type: (Document Retrieval, &lt;br&gt;Conversational Search, Content Mining, or Custom)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RS6-3sI64E32yyafjish-10" target="RS6-3sI64E32yyafjish-7" edge="1">
           <mxGeometry x="-0.2439" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Create a collection/use an existing collection, select crawl schedule&lt;br&gt;Define whether to&amp;nbsp;run OCR (Optical Character Recognition)&amp;nbsp;&lt;br&gt;consider limitations, authentication and hardware configurations to support required number of collections&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-10">
+        <mxCell id="RS6-3sI64E32yyafjish-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Create a collection/use an existing collection, select crawl schedule&lt;br&gt;Define whether to&amp;nbsp;run OCR (Optical Character Recognition)&amp;nbsp;&lt;br&gt;consider limitations, authentication and hardware configurations to support required number of collections&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="1" source="RS6-3sI64E32yyafjish-10" edge="1">
           <mxGeometry x="-0.6351" relative="1" as="geometry">
             <mxPoint x="780" y="330" as="targetPoint" />
             <Array as="points">
@@ -61,16 +61,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-10" value="&lt;font style=&quot;font-size: 11px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="RS6-3sI64E32yyafjish-10" value="&lt;font style=&quot;font-size: 11px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-14">
+        <mxCell id="RS6-3sI64E32yyafjish-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RS6-3sI64E32yyafjish-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RS6-3sI64E32yyafjish-14" value="&lt;font style=&quot;font-size: 11px&quot;&gt;documents in &lt;br&gt;remote data source &lt;br&gt;through CP4D&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RS6-3sI64E32yyafjish-14" value="&lt;font style=&quot;font-size: 11px&quot;&gt;documents in &lt;br&gt;remote data source &lt;br&gt;through CP4D&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_0uUf7q-fleCiMruKBS-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;WD crawls the documents &lt;br&gt;&lt;span style=&quot;color: rgb(45 , 63 , 73)&quot;&gt;Crawling is the process of systematically browsing and &lt;br&gt;retrieving documents from the specified start location&lt;/span&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="RS6-3sI64E32yyafjish-7" target="RS6-3sI64E32yyafjish-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="340" />
+              <mxPoint x="800" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
