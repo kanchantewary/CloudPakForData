@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T17:53:15.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="PqO5mxQpoI4vun2I55Yw" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T17:54:00.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="XAABnE7UmTGluoPs6o4y" version="13.4.5" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="813" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,9 +61,9 @@
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-9" value="Install Data Virtualization service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h26CRx6ADfj_f1zQn1qs-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1500" y="100" as="targetPoint" />
+            <mxPoint x="1500" y="109" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1500" y="100" />
+              <mxPoint x="1500" y="109" />
             </Array>
           </mxGeometry>
         </mxCell>
