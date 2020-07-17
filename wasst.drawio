@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T15:48:56.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="vXPMbwwSKbSTXU6WzAax" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T15:59:49.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="S8QqAarIs7qwoaLL5vB6" version="13.4.4" type="github">
   <diagram id="IWebMUMvC5ChVIndIaqR" name="Page-1">
-    <mxGraphModel dx="691" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1541" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,10 +76,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeU47IazUPWk-IXKemjb-21" value="Create an assistant" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
+        <mxCell id="xeU47IazUPWk-IXKemjb-21" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create an assistant&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xeU47IazUPWk-IXKemjb-22" value="Create a dialog skill" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
+        <mxCell id="xeU47IazUPWk-IXKemjb-22" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create a dialog skill&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="239" />
@@ -87,22 +87,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeU47IazUPWk-IXKemjb-23" value="Add intents from a content catalog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
+        <mxCell id="xeU47IazUPWk-IXKemjb-23" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Add intents from a content catalog&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="35" y="256" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeU47IazUPWk-IXKemjb-24" value="Build a catalog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
+        <mxCell id="xeU47IazUPWk-IXKemjb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="35" y="276" />
+              <mxPoint x="35" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeU47IazUPWk-IXKemjb-29" value="Complete integration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="382" />
+              <mxPoint x="305" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-20" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xeU47IazUPWk-IXKemjb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-25" target="xeU47IazUPWk-IXKemjb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeU47IazUPWk-IXKemjb-25" value="Build a dialog&lt;br&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xeU47IazUPWk-IXKemjb-28" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Build a dialog - steps&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;add a start node&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;test the start node&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;add further nodes to handle intents&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Test intent recognition&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="180" width="190" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
