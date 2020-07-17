@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T15:44:14.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="bOfePVT62h6tyXqvkrZl" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T15:45:25.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="oWeYvtPFVfP2aLSv0afV" version="13.4.4" type="github">
   <diagram id="IWebMUMvC5ChVIndIaqR" name="Page-1">
     <mxGraphModel dx="691" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,13 @@
             <Array as="points">
               <mxPoint x="180" y="239" />
               <mxPoint x="180" y="239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeU47IazUPWk-IXKemjb-23" value="Add intents from a content catalog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-20" target="xeU47IazUPWk-IXKemjb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="256" />
             </Array>
           </mxGeometry>
         </mxCell>
