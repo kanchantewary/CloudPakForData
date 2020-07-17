@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T18:10:36.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="WBJY6Fr6aMhaFLvzpZ8K" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T18:13:13.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="PZ7p-gTdVwx11PZqf3Rx" version="13.4.5" type="github">
   <diagram id="DmjefM-3_SJbnNz2ie8g" name="Page-1">
     <mxGraphModel dx="813" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,14 +90,14 @@
         <mxCell id="h26CRx6ADfj_f1zQn1qs-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Administrator&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="79" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table in response to a data request&lt;br&gt;or as a part of&amp;nbsp; an analytics project&lt;br&gt;or as a standalone task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2" edge="1">
-          <mxGeometry x="0.6917" y="650" relative="1" as="geometry">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-8" value="Create virtual table in response to a data request&lt;br&gt;or as a part of&amp;nbsp; an analytics project,&amp;nbsp;or as a standalone task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" target="h26CRx6ADfj_f1zQn1qs-2" edge="1">
+          <mxGeometry x="-0.6598" y="-50" relative="1" as="geometry">
             <mxPoint x="1620" y="596" as="targetPoint" />
             <Array as="points">
               <mxPoint x="790" y="600" />
               <mxPoint x="790" y="600" />
             </Array>
-            <mxPoint x="-650" y="650" as="offset" />
+            <mxPoint x="-50" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h26CRx6ADfj_f1zQn1qs-17" value="Select Automatically group tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="1" source="h26CRx6ADfj_f1zQn1qs-7" edge="1">
@@ -132,7 +132,7 @@
             <mxPoint x="-740" y="-740" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually,&amp;nbsp;if not installed on standard ports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1" edge="1">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-15" value="Add remote data sources manually,&amp;nbsp;if not installed on standard ports&lt;br&gt;(Automatically discovered if installed on standard ports)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="1" source="h26CRx6ADfj_f1zQn1qs-10" target="h26CRx6ADfj_f1zQn1qs-1" edge="1">
           <mxGeometry x="-0.6627" relative="1" as="geometry">
             <mxPoint x="1502" y="360" as="targetPoint" />
             <Array as="points">
@@ -211,7 +211,7 @@
             <mxPoint x="1617.9999999999995" y="776.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h26CRx6ADfj_f1zQn1qs-24" value="backup&lt;br&gt;run&amp;nbsp;&lt;span class=&quot;ph filepath&quot;&gt;dv-backup-job&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;keyword&quot;&gt;Kubernetes&lt;/span&gt; job." style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="h26CRx6ADfj_f1zQn1qs-23" vertex="1" connectable="0">
+        <mxCell id="h26CRx6ADfj_f1zQn1qs-24" value="backup,&amp;nbsp;run&amp;nbsp;&lt;span class=&quot;ph filepath&quot;&gt;dv-backup-job&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;keyword&quot;&gt;Kubernetes&lt;/span&gt; job." style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="h26CRx6ADfj_f1zQn1qs-23" vertex="1" connectable="0">
           <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
             <mxPoint x="-158.51" y="-1" as="offset" />
           </mxGeometry>
