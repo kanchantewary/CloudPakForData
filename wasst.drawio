@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T15:40:18.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KlQ1aRurCjgFvzOVdeJ-" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T15:42:32.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="S2PVD5nPMHqV8kLkhcLm" version="13.4.4" type="github">
   <diagram id="IWebMUMvC5ChVIndIaqR" name="Page-1">
-    <mxGraphModel dx="691" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,48 +26,53 @@
         <mxCell id="xeU47IazUPWk-IXKemjb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-6" target="xeU47IazUPWk-IXKemjb-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="35" y="400" />
+              <mxPoint x="35" y="818" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-6" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="20" y="628" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-08-128.png" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="30" height="30" as="geometry" />
+          <mxGeometry x="190" y="618" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-04-128.png" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="30" height="30" as="geometry" />
+          <mxGeometry x="180" y="658" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="20" height="120" as="geometry" />
+          <mxGeometry x="160" y="598" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-11" value="Messaging platforms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="70" height="30" as="geometry" />
+          <mxGeometry x="160" y="738" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xeU47IazUPWk-IXKemjb-15" value="built-in integration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-14" target="xeU47IazUPWk-IXKemjb-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xeU47IazUPWk-IXKemjb-15" value="built-in integration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608.8" y="657.8" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="20" height="120" as="geometry" />
+          <mxGeometry x="220" y="598" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xeU47IazUPWk-IXKemjb-18" value="custom integration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-16" target="xeU47IazUPWk-IXKemjb-4">
+        <mxCell id="xeU47IazUPWk-IXKemjb-18" value="custom integration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-16">
           <mxGeometry x="-0.3192" relative="1" as="geometry">
+            <mxPoint x="609.5" y="668" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="400" />
-              <mxPoint x="350" y="250" />
+              <mxPoint x="350" y="818" />
+              <mxPoint x="350" y="668" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xeU47IazUPWk-IXKemjb-16" value="Custom applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="788" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xeU47IazUPWk-IXKemjb-19" value="routes to dialog skill" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="xeU47IazUPWk-IXKemjb-4" target="xeU47IazUPWk-IXKemjb-4">
+        <mxCell id="xeU47IazUPWk-IXKemjb-19" value="routes to dialog skill" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609.5" y="678" as="sourcePoint" />
+            <mxPoint x="609.5" y="718" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="260" />
-              <mxPoint x="650" y="300" />
+              <mxPoint x="680" y="678" />
+              <mxPoint x="650" y="718" />
             </Array>
           </mxGeometry>
         </mxCell>
