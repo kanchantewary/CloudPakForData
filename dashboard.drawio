@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T13:02:49.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ELfq7yGFaESfy6GCTl_f" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T13:04:39.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="NcUCvoieUd_yPtcZApvg" version="13.4.6" type="github">
   <diagram id="7IlClS1Jov7Y3Icy13KO" name="Page-1">
-    <mxGraphModel dx="1888" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-18" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="630" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-21" value="Add a new dashboard to the project&lt;br&gt;Duplicate/Publish/Remove a dashboard" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-20">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-21" value="Add a new dashboard to the project&lt;br&gt;Duplicate/Publish/Remove a dashboard&lt;br&gt;&lt;div&gt;Select a template&lt;/div&gt;&lt;div&gt;Select a data source connection&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="750" as="targetPoint" />
           </mxGeometry>
