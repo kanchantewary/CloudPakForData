@@ -1,17 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T05:24:53.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Cujsg8JgMj7iGrhIhE-0" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T05:28:57.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="smgiGMbcuxmabC_3MSc2" version="13.4.6" type="github">
   <diagram id="6HUkFr_TWw3kJBGQ35cn" name="Page-1">
-    <mxGraphModel dx="1527" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-1" value="Watson Openscale" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="425" y="60" width="100" height="950" as="geometry" />
+          <mxGeometry x="495" y="60" width="100" height="950" as="geometry" />
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-2" value="Watson ML" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="100" height="950" as="geometry" />
+          <mxGeometry x="350" y="60" width="100" height="950" as="geometry" />
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-18" value="Deploy ML model" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-3" target="bhF4zg-Sx_7Qykf7fOIK-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="580" />
+              <mxPoint x="210" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-21" value="score your model" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.516;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-3" target="bhF4zg-Sx_7Qykf7fOIK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="607" />
+              <mxPoint x="240" y="607" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-22" value="payload and feedback logging" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-3" target="bhF4zg-Sx_7Qykf7fOIK-2">
+          <mxGeometry x="-0.045" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="640" />
+              <mxPoint x="280" y="640" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-3" value="Watson Studio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="100" height="950" as="geometry" />
