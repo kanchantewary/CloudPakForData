@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T17:18:34.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="jHcrG3NvCo0fbfCqtZLy" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T17:22:56.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="PnWFX-rnIeSqJ6C0-0xX" version="13.4.6" type="github">
   <diagram id="7IlClS1Jov7Y3Icy13KO" name="Page-1">
     <mxGraphModel dx="1541" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,6 +133,22 @@
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-32" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-310" y="1150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-34" value="Watson Studio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="70" width="100" height="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-36" value="Dashboards using R shiny app (&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;RStudio Server with R 3.6)&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.532;entryY=0.802;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-281" y="1301" as="sourcePoint" />
+            <mxPoint x="933.2000000000003" y="1300.04" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="326" y="1301" />
+              <mxPoint x="326" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-35" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-311" y="1260" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
