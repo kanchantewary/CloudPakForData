@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T13:09:08.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="-Fn-uPlWUVVB-K41qxEO" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T17:18:34.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="jHcrG3NvCo0fbfCqtZLy" version="13.4.6" type="github">
   <diagram id="7IlClS1Jov7Y3Icy13KO" name="Page-1">
     <mxGraphModel dx="1541" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,6 +93,46 @@
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-24" value="Cognos Dashboard Embedded service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="-20" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-27" value="Create a dashboard&lt;br&gt;Select from predefined templates&lt;br&gt;Apply filters&lt;br&gt;Perform formatting&lt;br&gt;Apply sorting&lt;br&gt;Use forecasting&lt;br&gt;statistical tests&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-26" target="VCkswo2sjKY-mE9S0TnJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="866" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-26" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-29" value="Create stories" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-28" target="VCkswo2sjKY-mE9S0TnJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-28" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-31" value="Create reports" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-284" y="1070" as="sourcePoint" />
+            <mxPoint x="630" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-30" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1043" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-33" value="Perform data modelling" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.73;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="1180" as="sourcePoint" />
+            <mxPoint x="629.9000000000001" y="1179.6" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-32" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1150" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
