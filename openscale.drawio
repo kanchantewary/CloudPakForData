@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T04:24:41.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="YoOIhOsif6GZSnwEwwWb" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T04:38:30.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="2-ib0jbwy-OAZBHqSck_" version="13.4.6" type="github">
   <diagram id="6HUkFr_TWw3kJBGQ35cn" name="Page-1">
     <mxGraphModel dx="1831" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,11 +31,11 @@
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-9" value="If autoscaler is not enabled, scale out manually using kubectl commands" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-460" y="251.0000000000001" as="sourcePoint" />
-            <mxPoint x="47.59999999999991" y="250.05000000000007" as="targetPoint" />
+            <mxPoint x="-460" y="230.9500000000001" as="sourcePoint" />
+            <mxPoint x="47.59999999999991" y="230.00000000000006" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-206" y="251" />
-              <mxPoint x="-206" y="250" />
+              <mxPoint x="-206" y="230.95" />
+              <mxPoint x="-206" y="229.95" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -49,6 +49,14 @@
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-11" value="&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;approve sign up requests, invite users, and add users&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bhF4zg-Sx_7Qykf7fOIK-10">
           <mxGeometry x="-0.2517" y="1" relative="1" as="geometry">
             <mxPoint x="-110.86" y="-0.37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-8" target="bhF4zg-Sx_7Qykf7fOIK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-475" y="317" />
+              <mxPoint x="-230" y="317" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-8" value="Administraor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
