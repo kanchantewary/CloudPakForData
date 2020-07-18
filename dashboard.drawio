@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T12:35:21.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="pxD81JUELxqp0CDToRW2" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T12:43:06.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="YJeU-pmIyoGWH-6Z1W7x" version="13.4.6" type="github">
   <diagram id="7IlClS1Jov7Y3Icy13KO" name="Page-1">
     <mxGraphModel dx="1888" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-1" value="Cognos Analytics" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="580" y="70" width="100" height="620" as="geometry" />
+          <mxGeometry x="580" y="70" width="100" height="1520" as="geometry" />
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-2" value="Cognos Dashboards" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="454" y="70" width="100" height="620" as="geometry" />
+          <mxGeometry x="454" y="70" width="100" height="1520" as="geometry" />
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-3" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="325" y="70" width="100" height="620" as="geometry" />
+          <mxGeometry x="325" y="70" width="100" height="1520" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-5" value="Install/upgrade Cognos dashboard service using cpd command" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-4" target="VCkswo2sjKY-mE9S0TnJ-3">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-5" value="Install/upgrade Cognos dashboard service using cpd command" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-4" target="VCkswo2sjKY-mE9S0TnJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VCkswo2sjKY-mE9S0TnJ-3">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="VCkswo2sjKY-mE9S0TnJ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-270" y="180" as="sourcePoint" />
             <Array as="points">
@@ -32,22 +32,24 @@
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-4" value="Project Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-9" value="Install database to be used for (cognos analytics) content store&lt;br&gt;Use this step if a database other than DB2 is desired (e.g. Oracle or MS SQL Server)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.29;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-8" target="VCkswo2sjKY-mE9S0TnJ-3">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-9" value="Install database to be used for (cognos analytics) content store&lt;br&gt;Use this step if a database other than DB2 is desired (e.g. Oracle or MS SQL Server)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-8" target="VCkswo2sjKY-mE9S0TnJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-11" value="Provision instance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-10" target="VCkswo2sjKY-mE9S0TnJ-3">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-11" value="Provision instance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="310" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="374" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="374" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-10" value="Administrator/&lt;br&gt;user with create service instance &lt;br&gt;permission" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Manage users&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Roles&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Administrator&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Explorer&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics User&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Information Distribution&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VCkswo2sjKY-mE9S0TnJ-1">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Manage users&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Roles&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Administrator&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Explorer&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics User&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Information Distribution&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.256;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VCkswo2sjKY-mE9S0TnJ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-286" y="460" as="sourcePoint" />
             <mxPoint x="374" y="460" as="targetPoint" />
@@ -56,22 +58,27 @@
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-14" value="User who provisioned the instance" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="430" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-17" value="Perform backup and restore" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-16" target="VCkswo2sjKY-mE9S0TnJ-1">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-17" value="Perform backup and restore" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-16" target="VCkswo2sjKY-mE9S0TnJ-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="10" y="540" />
-              <mxPoint x="10" y="540" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-16" value="Analytics Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="515" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-19" value="Create a project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-18" target="VCkswo2sjKY-mE9S0TnJ-2">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-19" value="Create a project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-18" target="VCkswo2sjKY-mE9S0TnJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-18" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="720" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
