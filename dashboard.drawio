@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T12:28:18.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Dn06R20wLw4ambkhCk4m" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T12:30:52.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="TxRMQ5-TWhZDWin2hT6K" version="13.4.6" type="github">
   <diagram id="7IlClS1Jov7Y3Icy13KO" name="Page-1">
     <mxGraphModel dx="1443" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-1" target="VCkswo2sjKY-mE9S0TnJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VCkswo2sjKY-mE9S0TnJ-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Manage users&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Roles&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Administrator&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Explorer&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics User&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Information Distribution&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Manage users&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Roles&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Administrator&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics Explorer&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Analytics User&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Information Distribution&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VCkswo2sjKY-mE9S0TnJ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-286" y="460" as="sourcePoint" />
             <mxPoint x="374" y="460" as="targetPoint" />
@@ -58,6 +58,17 @@
         </mxCell>
         <mxCell id="VCkswo2sjKY-mE9S0TnJ-14" value="User who provisioned the instance" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-17" value="Perform backup and restore" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCkswo2sjKY-mE9S0TnJ-16" target="VCkswo2sjKY-mE9S0TnJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="540" />
+              <mxPoint x="10" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCkswo2sjKY-mE9S0TnJ-16" value="Analytics Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="515" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
