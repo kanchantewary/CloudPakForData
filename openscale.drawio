@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T06:27:42.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Fs26m0cBC7BQYVbCTckK" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T06:28:05.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="WjBh9-x1wPo8TFuBMU4X" version="13.4.6" type="github">
   <diagram id="6HUkFr_TWw3kJBGQ35cn" name="Page-1">
     <mxGraphModel dx="1663" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-30" value="&lt;div&gt;&lt;b&gt;Insights dashboard&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Deployments monitored&lt;/div&gt;&lt;div&gt;Quality Alerts&lt;/div&gt;&lt;div&gt;Fairness alerts&lt;/div&gt;&lt;div&gt;Drift alerts&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-28">
-          <mxGeometry x="-0.5567" relative="1" as="geometry">
+          <mxGeometry x="-0.5503" relative="1" as="geometry">
             <mxPoint x="400" y="840" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-565" y="840" />
