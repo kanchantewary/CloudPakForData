@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T04:07:55.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="CjKooO67H5XgznJD_Cb0" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T04:20:00.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Y_BYZw29Dv0Sg4CnKlx5" version="13.4.6" type="github">
   <diagram id="6HUkFr_TWw3kJBGQ35cn" name="Page-1">
-    <mxGraphModel dx="981" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,35 @@
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-3" value="Watson Studio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="100" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-4" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry y="60" width="100" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-6" value="Install Watson Openscale&lt;br&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;enable the horizontal pod autoscaler&lt;/font&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-5" target="bhF4zg-Sx_7Qykf7fOIK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-7" value="Install Watson Machine Learning" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-5" target="bhF4zg-Sx_7Qykf7fOIK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-165" y="128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-9" value="If autoscaler is not enabled, scale up manually using kubectl commands" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="251.0000000000001" as="sourcePoint" />
+            <mxPoint x="47.59999999999991" y="250.05000000000007" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-206" y="251" />
+              <mxPoint x="-206" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="220" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
