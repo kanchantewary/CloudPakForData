@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T05:10:19.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ub9-c3Xd1XMYJY-6oXrR" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T05:10:43.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="wButBuvcTM0LDt_WgRgq" version="13.4.6" type="github">
   <diagram id="6HUkFr_TWw3kJBGQ35cn" name="Page-1">
     <mxGraphModel dx="1527" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-5" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="-490" y="118" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-9" value="If autoscaler is not enabled, scale out manually using kubectl commands" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-8" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="-490" y="212" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
