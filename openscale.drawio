@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T05:59:50.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="qZUDzxERSi2YE9rADpxw" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T06:00:07.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="16Vo1vIuo-ey00qBArz6" version="13.4.6" type="github">
   <diagram id="6HUkFr_TWw3kJBGQ35cn" name="Page-1">
     <mxGraphModel dx="1831" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-23" value="" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-240" y="700" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-25" value="Install&amp;nbsp; python3&lt;br&gt;&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(244 , 244 , 244)&quot;&gt;ibm-ai-openscale-cli&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-24" target="bhF4zg-Sx_7Qykf7fOIK-23">
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-25" value="Install&amp;nbsp; python3,&amp;nbsp;&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(244 , 244 , 244)&quot;&gt;ibm-ai-openscale-cli&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-24" target="bhF4zg-Sx_7Qykf7fOIK-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
