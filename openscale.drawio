@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T05:21:31.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="tYL8euZsuN3g2dP8YJ7u" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T05:24:53.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Cujsg8JgMj7iGrhIhE-0" version="13.4.6" type="github">
   <diagram id="6HUkFr_TWw3kJBGQ35cn" name="Page-1">
     <mxGraphModel dx="1527" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,6 +88,16 @@
         </mxCell>
         <mxCell id="bhF4zg-Sx_7Qykf7fOIK-17" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Supported ML frameworks&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Watson Machine Learning&lt;/li&gt;&lt;li&gt;Azure ML studio&lt;/li&gt;&lt;li&gt;Azure ML service&lt;/li&gt;&lt;li&gt;AWS Sagemaker&lt;/li&gt;&lt;li&gt;SPSS&lt;/li&gt;&lt;li&gt;Custom&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-810" y="120" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-20" value="Specify database details" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bhF4zg-Sx_7Qykf7fOIK-19" target="bhF4zg-Sx_7Qykf7fOIK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhF4zg-Sx_7Qykf7fOIK-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="520" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
