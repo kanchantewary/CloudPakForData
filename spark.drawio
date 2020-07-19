@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-19T17:42:32.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="aqglkqAAb-msSiN_6fRQ" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-19T17:48:21.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="1qo1PTMz2eJ5FFg-vzA3" version="13.4.6" type="github">
   <diagram id="fRb64ITn-hyFE03eq-Tl" name="Page-1">
     <mxGraphModel dx="834" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,6 +88,24 @@
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-19" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp_p24TcaEws-BEJlRB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="611" as="sourcePoint" />
+            <mxPoint x="487.0999999999999" y="611.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279" y="611" />
+              <mxPoint x="487" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp_p24TcaEws-BEJlRB-24" value="Access spark history server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ptp_p24TcaEws-BEJlRB-23">
+          <mxGeometry x="-0.115" y="-18" relative="1" as="geometry">
+            <mxPoint x="-18" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp_p24TcaEws-BEJlRB-22" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
