@@ -1,14 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-07-19T04:05:01.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="vdyQMxK2Q6HOydGvmgaq" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-19T04:19:51.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Vf7GQvZaaHmlwIFYaHr-" version="13.4.6" type="github">
   <diagram id="A3lseiiwYIHP_nx2Q55T" name="Page-1">
-    <mxGraphModel dx="834" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1684" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pm4v9sZreAJuvo7hv3L7-1" value="DataStage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="670" y="40" width="100" height="840" as="geometry" />
         </mxCell>
-        <mxCell id="pm4v9sZreAJuvo7hv3L7-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="20" height="820" as="geometry" />
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-4" value="Install DataStage service" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pm4v9sZreAJuvo7hv3L7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-3" value="Administrator of the &lt;br&gt;project (namespace)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="188" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-5" value="CP4D cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-7" value="Set up the cluster" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pm4v9sZreAJuvo7hv3L7-6" target="pm4v9sZreAJuvo7hv3L7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-6" value="Cluster Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pm4v9sZreAJuvo7hv3L7-9" target="pm4v9sZreAJuvo7hv3L7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-14" value="Manage users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pm4v9sZreAJuvo7hv3L7-10">
+          <mxGeometry x="0.1452" relative="1" as="geometry">
+            <mxPoint x="-155.86" y="0.3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.516;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pm4v9sZreAJuvo7hv3L7-9" target="pm4v9sZreAJuvo7hv3L7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="360" />
+              <mxPoint x="20" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-13" value="&lt;span style=&quot;color: rgb(50 , 50 , 50)&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Install drivers for unsupported data sources&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pm4v9sZreAJuvo7hv3L7-11">
+          <mxGeometry x="-0.2469" y="2" relative="1" as="geometry">
+            <mxPoint x="-2.76" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pm4v9sZreAJuvo7hv3L7-9" target="pm4v9sZreAJuvo7hv3L7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-115" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-16" value="Configuring the number of data transformation jobs that can start concurrently" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pm4v9sZreAJuvo7hv3L7-12">
+          <mxGeometry x="-0.0514" relative="1" as="geometry">
+            <mxPoint x="-129.07" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm4v9sZreAJuvo7hv3L7-9" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="311" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
