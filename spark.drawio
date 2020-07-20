@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T15:53:38.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="cKyDXhmsCkfRMxoeTVze" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T16:05:24.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="9yLLYeuSY1EXGvIJzk2B" version="13.4.8" type="github">
   <diagram id="fRb64ITn-hyFE03eq-Tl" name="Page-1">
-    <mxGraphModel dx="2059" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1541" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,6 +189,19 @@
         </mxCell>
         <mxCell id="WIxMcaQrRro8mzeanzOV-12" value="Watson ML" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="920" y="40" width="100" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="IpGZjdTOuHGOY6pWi05_-4" value="Create new spark environment (Elastic or specify CPU, GPU and RAM to reserve)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="IpGZjdTOuHGOY6pWi05_-3">
+          <mxGeometry x="-0.1281" y="270" relative="1" as="geometry">
+            <mxPoint x="770" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="320" />
+              <mxPoint x="330" y="320" />
+            </Array>
+            <mxPoint x="-270" y="270" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpGZjdTOuHGOY6pWi05_-3" value="Admin or Editor role" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
