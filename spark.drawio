@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T14:52:53.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="9JAZ0MCwrc4DFZW1apuZ" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T15:14:52.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="4mYGCnIB3_f5Ml5mqzNR" version="13.4.8" type="github">
   <diagram id="fRb64ITn-hyFE03eq-Tl" name="Page-1">
-    <mxGraphModel dx="1684" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1541" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,13 +83,13 @@
         <mxCell id="ptp_p24TcaEws-BEJlRB-16" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-45" y="377" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ptp_p24TcaEws-BEJlRB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ptp_p24TcaEws-BEJlRB-19" edge="1" target="ptp_p24TcaEws-BEJlRB-2">
+        <mxCell id="ptp_p24TcaEws-BEJlRB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="513.0000000000001" as="sourcePoint" />
-            <mxPoint x="810" y="510" as="targetPoint" />
+            <mxPoint x="-15" y="625" as="sourcePoint" />
+            <mxPoint x="1009.5" y="625" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="910" y="510" />
-              <mxPoint x="910" y="510" />
+              <mxPoint x="910" y="625" />
+              <mxPoint x="910" y="625" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,14 +99,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-19" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-45" y="480" width="30" height="60" as="geometry" />
+          <mxGeometry x="-45" y="590" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" source="ptp_p24TcaEws-BEJlRB-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="611" as="sourcePoint" />
-            <mxPoint x="487.0999999999999" y="611.96" as="targetPoint" />
+            <mxPoint x="70" y="726" as="sourcePoint" />
+            <mxPoint x="487.0999999999999" y="726.96" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="279" y="611" />
+              <mxPoint x="80" y="727" />
+              <mxPoint x="80" y="727" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,10 +117,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-22" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-45" y="580" width="30" height="60" as="geometry" />
+          <mxGeometry x="-45" y="698" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIxMcaQrRro8mzeanzOV-2" value="Data Virtualization layer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="570" y="40" width="100" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="WIxMcaQrRro8mzeanzOV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="510" />
+              <mxPoint x="440" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIxMcaQrRro8mzeanzOV-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="480" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
