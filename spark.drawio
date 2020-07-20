@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T15:17:02.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="kPOOpFYUyuZhVqvqvPr8" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T15:21:52.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="oB3f6w_YWvUe7GGo_Rj4" version="13.4.8" type="github">
   <diagram id="fRb64ITn-hyFE03eq-Tl" name="Page-1">
     <mxGraphModel dx="1541" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,6 +11,14 @@
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-1" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-45" y="91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WIxMcaQrRro8mzeanzOV-9" value="return result-set" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="ptp_p24TcaEws-BEJlRB-2" target="ptp_p24TcaEws-BEJlRB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="580" />
+              <mxPoint x="840" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-2" value="Spark" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="960" y="40" width="100" height="1040" as="geometry" />
@@ -60,6 +68,9 @@
           <mxGeometry x="-0.2058" y="-1" relative="1" as="geometry">
             <mxPoint x="10.93" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WIxMcaQrRro8mzeanzOV-8" value="code runs on Analytics Engine" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptp_p24TcaEws-BEJlRB-11" target="ptp_p24TcaEws-BEJlRB-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-11" value="Watson Studio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="720" y="40" width="100" height="1040" as="geometry" />
@@ -130,10 +141,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxMcaQrRro8mzeanzOV-6" value="Create a Jupyter notebook" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
+        <mxCell id="WIxMcaQrRro8mzeanzOV-6" value="Create a Jupyter notebook and define the runtime environment as spark" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="352" y="527" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIxMcaQrRro8mzeanzOV-7" value="Run code blocks" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="549" />
+              <mxPoint x="352" y="549" />
             </Array>
           </mxGeometry>
         </mxCell>
