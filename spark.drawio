@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T15:21:52.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="oB3f6w_YWvUe7GGo_Rj4" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T15:31:28.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LFd__71mvuwWtO5rurXE" version="13.4.8" type="github">
   <diagram id="fRb64ITn-hyFE03eq-Tl" name="Page-1">
     <mxGraphModel dx="1541" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,8 +69,11 @@
             <mxPoint x="10.93" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxMcaQrRro8mzeanzOV-8" value="code runs on Analytics Engine" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptp_p24TcaEws-BEJlRB-11" target="ptp_p24TcaEws-BEJlRB-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WIxMcaQrRro8mzeanzOV-8" value="code runs on Analytics Engine" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="769.9285714285716" y="566" as="sourcePoint" />
+            <mxPoint x="1009.5" y="566" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ptp_p24TcaEws-BEJlRB-11" value="Watson Studio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="720" y="40" width="100" height="1040" as="geometry" />
@@ -133,30 +136,37 @@
         <mxCell id="WIxMcaQrRro8mzeanzOV-2" value="Data Virtualization layer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="570" y="40" width="100" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="WIxMcaQrRro8mzeanzOV-5" value="Create analytics project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="WIxMcaQrRro8mzeanzOV-5" value="Create analytics project" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1">
+          <mxGeometry x="-0.4263" y="120" relative="1" as="geometry">
+            <mxPoint x="-15" y="505" as="sourcePoint" />
+            <mxPoint x="769.5" y="505" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="510" />
-              <mxPoint x="440" y="510" />
+              <mxPoint x="210" y="505" />
+              <mxPoint x="210" y="505" />
             </Array>
+            <mxPoint x="-120" y="120" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxMcaQrRro8mzeanzOV-6" value="Create a Jupyter notebook and define the runtime environment as spark" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="WIxMcaQrRro8mzeanzOV-7" value="Run code blocks" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4">
+          <mxGeometry x="-0.5616" relative="1" as="geometry">
+            <mxPoint x="771" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="352" y="527" />
+              <mxPoint x="-30" y="560" />
+              <mxPoint x="771" y="560" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxMcaQrRro8mzeanzOV-7" value="Run code blocks" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="WIxMcaQrRro8mzeanzOV-11" value="&lt;div style=&quot;text-align: left&quot;&gt;Create a Jupyter notebook or Data Refinery Flow&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Define Environment definition as spark&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" source="WIxMcaQrRro8mzeanzOV-4" target="ptp_p24TcaEws-BEJlRB-11">
+          <mxGeometry x="-0.3758" y="20" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-30" y="549" />
-              <mxPoint x="352" y="549" />
+              <mxPoint x="230" y="528" />
+              <mxPoint x="230" y="528" />
             </Array>
+            <mxPoint x="-20" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIxMcaQrRro8mzeanzOV-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="WIxMcaQrRro8mzeanzOV-4" value="&lt;font style=&quot;font-size: 11px&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-45" y="480" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
