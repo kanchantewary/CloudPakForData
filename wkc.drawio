@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T11:40:32.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0auZGyIxgc2P122qYoWa" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T11:52:42.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="WoCCYY6cHf_OmIQYosTP" version="13.4.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2534" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2909" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,18 +21,19 @@
         <mxCell id="m7c62PFlQVcXENg2-71l-4" value="DV" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="420" y="40" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="IsnBaX-UXQkgkAbF29E4-29" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;get lineage reports [Data lineage, Business lineage]&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Data lineage reports show the movement of data through a job or multiple jobs,&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Business lineage reports show a simplified view of lineage that highlights the transformation&amp;nbsp;&lt;/span&gt;and aggregation of data&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-5" target="IsnBaX-UXQkgkAbF29E4-28" edge="1">
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-29" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;get lineage reports [Data lineage, Business lineage]&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Data lineage reports show the movement of data through a job or multiple jobs,&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Business lineage reports show a simplified view of lineage that highlights the transformation&amp;nbsp;&lt;/span&gt;and aggregation of data&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;fontSize=14;" parent="1" target="IsnBaX-UXQkgkAbF29E4-28" edge="1">
           <mxGeometry x="0.7499" relative="1" as="geometry">
-            <mxPoint x="290" y="1520.5926106770833" as="targetPoint" />
+            <mxPoint x="290" y="1697.5926106770833" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-400" y="1980" />
-              <mxPoint x="-400" y="1980" />
+              <mxPoint x="-400" y="2157" />
+              <mxPoint x="-400" y="2157" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="469.5" y="2157" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-5" value="WKC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="420" y="40" width="100" height="1960" as="geometry" />
+          <mxGeometry x="420" y="40" width="100" height="2330" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;preinstallation tasks -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;adjust the timeout settings on your load balancer node&lt;/span&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-9" target="m7c62PFlQVcXENg2-71l-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -45,17 +46,17 @@
         <mxCell id="m7c62PFlQVcXENg2-71l-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Admin with root privilege&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-490" y="67" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-12" value="approve requests to publish them" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-13" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-12" value="approve requests to publish them" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-13" edge="1">
           <mxGeometry x="0.6568" y="-380" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-495" y="1560" />
+              <mxPoint x="-495" y="1730" />
             </Array>
             <mxPoint x="-380" y="-380" as="offset" />
-            <mxPoint x="469.5" y="1449.9999999999998" as="targetPoint" />
+            <mxPoint x="469.5" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-13" value="data steward" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="1530" width="30" height="60" as="geometry" />
+          <mxGeometry x="-510" y="1700" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-14" value="run automated discovery/quick scan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-16" edge="1">
           <mxGeometry x="-0.256" relative="1" as="geometry">
@@ -67,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-16" value="user with Data Quality Analyst role" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="820" width="30" height="60" as="geometry" />
+          <mxGeometry x="-650" y="820" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-96" value="access source systems through connections" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-17" target="m7c62PFlQVcXENg2-71l-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -80,43 +81,43 @@
         <mxCell id="m7c62PFlQVcXENg2-71l-17" value="source systems" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-20" y="40" width="100" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-19" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;review&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;predefined data rule definitions is available in the default catalog&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;create data rule definitions -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;logical expressions using supported operators&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Data rules apply the logic specified in the selected data rule definition to the physical data.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;create ruleset definitions -&amp;nbsp;&lt;/font&gt;select more than one data rule definition or data rule&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Rule sets are created from rule set definitions, which consist of many data rule definitions or data rules.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-20" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-19" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;review&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;predefined data rule definitions is available in the default catalog&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;create data rule definitions -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;logical expressions using supported operators&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Data rules apply the logic specified in the selected data rule definition to the physical data.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;create ruleset definitions -&amp;nbsp;&lt;/font&gt;select more than one data rule definition or data rule&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Rule sets are created from rule set definitions, which consist of many data rule definitions or data rules.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;align=left;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-20" edge="1">
           <mxGeometry x="-0.5266" y="-110" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-240" y="1400" />
-              <mxPoint x="-240" y="1400" />
+              <mxPoint x="-498" y="1560" />
             </Array>
-            <mxPoint x="469.5" y="1400" as="targetPoint" />
+            <mxPoint x="469.5" y="1560" as="targetPoint" />
             <mxPoint x="-110" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-20" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="1380" as="targetPoint" />
+            <mxPoint x="470" y="1484" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-410" y="1400" />
-              <mxPoint x="-410" y="1340" />
-              <mxPoint x="470" y="1340" />
+              <mxPoint x="-410" y="1559" />
+              <mxPoint x="-410" y="1484" />
             </Array>
+            <mxPoint x="-483.5" y="1544" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-88" value="import/export rules and definitions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-87" vertex="1" connectable="0">
           <mxGeometry x="-0.4945" y="-2" relative="1" as="geometry">
-            <mxPoint x="20" as="offset" />
+            <mxPoint x="129.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-91" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create automation rules to&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;automate the process of governing your data&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;run automation rules&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-20" target="m7c62PFlQVcXENg2-71l-5" edge="1">
-          <mxGeometry x="-0.2396" relative="1" as="geometry">
-            <mxPoint x="370" y="1410" as="targetPoint" />
+        <mxCell id="m7c62PFlQVcXENg2-71l-91" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create automation rules to&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;automate the process of governing your data&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;run automation rules&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-20" edge="1">
+          <mxGeometry x="-0.0057" relative="1" as="geometry">
+            <mxPoint x="469.5" y="1644" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-410" y="1400" />
-              <mxPoint x="-410" y="1470" />
+              <mxPoint x="-410" y="1559" />
+              <mxPoint x="-410" y="1644" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="-483.5" y="1574" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;possesses&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Manage governance &lt;br style=&quot;font-size: 14px;&quot;&gt;artifact permission&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="1369" width="30" height="60" as="geometry" />
+          <mxGeometry x="-513.5" y="1529" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Install WKC using cpd tool&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -253,11 +254,11 @@
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;dashed=1;" parent="1" source="m7c62PFlQVcXENg2-71l-57" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="1030" as="targetPoint" />
+            <mxPoint x="-80" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-57" value="local storage" style="shape=dataStorage;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="500" width="105" height="40" as="geometry" />
+          <mxGeometry x="-635" y="500" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-59" target="m7c62PFlQVcXENg2-71l-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -273,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-59" value="user with admin or &lt;br style=&quot;font-size: 14px;&quot;&gt;editor role in the catalog" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="570" width="30" height="60" as="geometry" />
+          <mxGeometry x="-530" y="570" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-62" value="save file to catalog storage&lt;br style=&quot;font-size: 14px;&quot;&gt;If format is CSV/Avro/Parquet and uncompressed, perform automatic profiling" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-5" target="m7c62PFlQVcXENg2-71l-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -299,23 +300,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-68" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define new data classes, assign a primary category and send for publish&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define matching method:&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;1. no automatic matching&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;2. match to a list of values or reference data set&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;3. match using regex&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;4. match using a java class&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;5. define a threshold value&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-67" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-68" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define new data classes, assign a primary category and send for publish&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define matching method:&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;1. no automatic matching&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;2. match to a list of values or reference data set&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;3. match using regex&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;4. match using a java class&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;5. define a threshold value&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-67" target="m7c62PFlQVcXENg2-71l-5" edge="1">
           <mxGeometry x="-0.2992" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-475" y="750" />
+              <mxPoint x="-590" y="740" />
+              <mxPoint x="-590" y="790" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-74" value="add reference data set (csv) and send for publish" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-67" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-74" value="add reference data set (csv) and send for publish" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-475" y="820" />
+              <mxPoint x="-590" y="740" />
+              <mxPoint x="-590" y="710" />
+              <mxPoint x="470" y="710" />
             </Array>
+            <mxPoint x="470" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-67" value="user with&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Manage governance artifact permission&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="710" width="30" height="60" as="geometry" />
+          <mxGeometry x="-650" y="710" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-75" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;run column analysis (assign data type, data class and format)&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;assign business terms&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;analyze data quality (missing values, data class violations)&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;publish results to default catalog&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-5" target="m7c62PFlQVcXENg2-71l-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -325,11 +330,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;perform further tasks&lt;/b&gt; -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;concatenation of data from one or more columns to create virtual columns, &lt;br style=&quot;font-size: 14px;&quot;&gt;join multiple tables to create SQL virtual tables&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;modify analysis settings&lt;/b&gt; (e.g. threshold values)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;perform further analysis&lt;/b&gt; (data quality analysis, column analysis, column similarity analysis, &lt;br style=&quot;font-size: 14px;&quot;&gt;primary key analysis, relationship analysis, overlap analysis)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;perform further tasks&lt;/b&gt; -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;concatenation of data from one or more columns to create virtual columns, &lt;br style=&quot;font-size: 14px;&quot;&gt;join multiple tables to create SQL virtual tables&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;modify analysis settings&lt;/b&gt; (e.g. threshold values)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;perform further analysis&lt;/b&gt; (data quality analysis, column analysis, column similarity analysis, &lt;br style=&quot;font-size: 14px;&quot;&gt;primary key analysis, relationship analysis, overlap analysis)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-76" edge="1">
           <mxGeometry x="0.2911" y="-470" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="947" />
-              <mxPoint x="140" y="947" />
+              <mxPoint x="-635" y="947" />
             </Array>
             <mxPoint x="-470" y="-470" as="offset" />
             <mxPoint x="-460" y="947.0344827586209" as="sourcePoint" />
@@ -337,37 +341,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-76" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="919" width="30" height="60" as="geometry" />
+          <mxGeometry x="-650" y="919" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-80" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create governance policy&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create governance rules&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;assign governance rule to business terms, classification, reference data&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;assign the governance rule to a category&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-80" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create governance policy&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create governance rules&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;assign governance rule to business terms, classification, reference data&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;assign the governance rule to a category&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="m7c62PFlQVcXENg2-71l-79">
           <mxGeometry x="0.871" y="560" relative="1" as="geometry">
             <mxPoint x="-460" y="1100" as="sourcePoint" />
             <mxPoint x="470" y="1099.9354838709678" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="1100" />
-              <mxPoint x="450" y="1100" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="-560" y="560" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;create data protection rules (&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;A data protection rule consists of criteria that specify &lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;which data to control and an action that specifies how to prevent access to that data)&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;Actions: (1) Deny access (2) Mask data (redact/substitute/obfuscate)&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-79" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;create data protection rules (&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;A data protection rule consists of criteria that specify &lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;which data to control and an action that specifies how to prevent access to that data)&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;Actions: (1) Deny access (2) Mask data (redact/substitute/obfuscate)&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-79" target="m7c62PFlQVcXENg2-71l-5" edge="1">
           <mxGeometry x="-0.6289" relative="1" as="geometry">
             <mxPoint x="470" y="1150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-410" y="1100" />
-              <mxPoint x="-410" y="1170" />
+              <mxPoint x="-560" y="1100" />
+              <mxPoint x="-560" y="1170" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c62PFlQVcXENg2-71l-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="m7c62PFlQVcXENg2-71l-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-410" y="1096" />
-              <mxPoint x="-410" y="1056" />
+              <mxPoint x="-515" y="1100" />
+              <mxPoint x="-560" y="1100" />
+              <mxPoint x="-560" y="1040" />
+              <mxPoint x="470" y="1040" />
             </Array>
-            <mxPoint x="-460" y="1096" as="sourcePoint" />
-            <mxPoint x="469.5" y="1056" as="targetPoint" />
+            <mxPoint x="-515.0000000000002" y="1104" as="sourcePoint" />
+            <mxPoint x="469.5" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-83" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create business terms, import from a csv file,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define relationships among business terms&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;relate a term to a classification or data class&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-82" vertex="1" connectable="0">
@@ -376,7 +379,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-79" value="user with&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Manage governance &lt;br style=&quot;font-size: 14px;&quot;&gt;artifact permission&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="1070" width="30" height="60" as="geometry" />
+          <mxGeometry x="-650" y="1070" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-86" value="add business glossary (category and business terms)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -404,7 +407,7 @@
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-92" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="471.1852213541667" y="1660" as="targetPoint" />
+            <mxPoint x="471.1852213541667" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-94" value="comply with data regulations (GDPR/CCPA/FERPA)&lt;br style=&quot;font-size: 14px;&quot;&gt;create a regulatory compliance project, perform business term &lt;br style=&quot;font-size: 14px;&quot;&gt;mapping and data asset mapping (auto/manual)" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-93" vertex="1" connectable="0">
@@ -413,7 +416,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c62PFlQVcXENg2-71l-92" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Regulatory Accelerator&lt;/span&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&amp;nbsp;service&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-555" y="1630" width="165" height="60" as="geometry" />
+          <mxGeometry x="-555" y="1800" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-1" value="&lt;b&gt;administrator tasks&lt;/b&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-590" y="100" width="10" height="250" as="geometry" />
@@ -421,8 +424,8 @@
         <mxCell id="IsnBaX-UXQkgkAbF29E4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-8" target="IsnBaX-UXQkgkAbF29E4-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-260" y="1758" />
-              <mxPoint x="-260" y="1810" />
+              <mxPoint x="-260" y="1935" />
+              <mxPoint x="-260" y="1987" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -432,13 +435,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-8" value="External Applications" style="shape=dataStorage;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-545" y="1718" width="100" height="80" as="geometry" />
+          <mxGeometry x="-545" y="1895" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-9" target="IsnBaX-UXQkgkAbF29E4-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-260" y="1865" />
-              <mxPoint x="-260" y="1810" />
+              <mxPoint x="-260" y="2042" />
+              <mxPoint x="-260" y="1987" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -448,10 +451,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-9" value="Databases" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-532.5" y="1820" width="75" height="90" as="geometry" />
+          <mxGeometry x="-532.5" y="1997" width="75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XwHpWZ4ftV7QXHC5Zp1C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.901;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="IsnBaX-UXQkgkAbF29E4-13" target="m7c62PFlQVcXENg2-71l-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XwHpWZ4ftV7QXHC5Zp1C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="IsnBaX-UXQkgkAbF29E4-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470.1999999999998" y="1987.8000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XwHpWZ4ftV7QXHC5Zp1C-2" value="analyze, preview and share in the catalog" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="XwHpWZ4ftV7QXHC5Zp1C-1">
           <mxGeometry x="-0.1061" y="-1" relative="1" as="geometry">
@@ -459,22 +464,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-13" value="Import metadata &lt;br style=&quot;font-size: 14px;&quot;&gt;in staging area" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1766" width="150" height="80" as="geometry" />
+          <mxGeometry x="10" y="1943" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-18" target="IsnBaX-UXQkgkAbF29E4-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-18" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;metadata import bridges&lt;br style=&quot;font-size: 14px;&quot;&gt;metadata import connectors&lt;br style=&quot;font-size: 14px;&quot;&gt;OpenIGC bridges&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-224" y="1771" width="200" height="70" as="geometry" />
+          <mxGeometry x="-224" y="1948" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-26" target="IsnBaX-UXQkgkAbF29E4-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-26" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;External Applications&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Bridges&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ErWin, IBM Cognos, InfoSphere Data Architect, DB2, Microsoft SSRS, Microstrategy, Oracle, QlikView, SAP, Tableau,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Connectors&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Amazon S3, HDFS, Greenplum, JDBC, ODBC, Oracle, Netezza, Teradata, DB2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;OpenIGC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Informatica Power Center, Talend, SSIS, Files (Excel, XML, Avro, Parquet, JSON), Oracle and Teradata DML scripts&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-890" y="1600" width="290" height="280" as="geometry" />
+          <mxGeometry x="-925" y="1795" width="290" height="280" as="geometry" />
         </mxCell>
         <mxCell id="IsnBaX-UXQkgkAbF29E4-28" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="1930" width="30" height="60" as="geometry" />
+          <mxGeometry x="-520" y="2107" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
