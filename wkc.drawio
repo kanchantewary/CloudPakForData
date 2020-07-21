@@ -1,1 +1,467 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T07:48:12.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="D0ZX4eQLL1AyyUanpMZX" version="13.4.2" type="device"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-21T11:33:55.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="TxLKpLdwYHGPyu2mTHqz" version="13.4.9" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2534" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m7c62PFlQVcXENg2-71l-1" value="CP4D Cluster" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="110" y="40" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-2" value="submit catalog request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-3" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="270" />
+              <mxPoint x="310" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-3" value="Data Virtualization Layer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="130" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-4" value="DV" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="420" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-29" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;get lineage reports [Data lineage, Business lineage]&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Data lineage reports show the movement of data through a job or multiple jobs,&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Business lineage reports show a simplified view of lineage that highlights the transformation&amp;nbsp;&lt;/span&gt;and aggregation of data&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-5" target="IsnBaX-UXQkgkAbF29E4-28" edge="1">
+          <mxGeometry x="0.7499" relative="1" as="geometry">
+            <mxPoint x="290" y="1520.5926106770833" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-400" y="1980" />
+              <mxPoint x="-400" y="1980" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-5" value="WKC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="420" y="40" width="100" height="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;preinstallation tasks -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;adjust the timeout settings on your load balancer node&lt;/span&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-9" target="m7c62PFlQVcXENg2-71l-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="100" />
+              <mxPoint x="50" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Admin with root privilege&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="78" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-12" value="approve requests to publish them" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-13" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry x="0.6568" y="-380" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-495" y="1560" />
+            </Array>
+            <mxPoint x="-380" y="-380" as="offset" />
+            <mxPoint x="469.5" y="1449.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-13" value="data steward" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="1530" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-14" value="run automated discovery/quick scan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m7c62PFlQVcXENg2-71l-16" edge="1">
+          <mxGeometry x="-0.256" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="850" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-16" value="user with Data Quality Analyst role" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="820" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-96" value="access source systems through connections" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-17" target="m7c62PFlQVcXENg2-71l-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="230" />
+              <mxPoint x="150" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-17" value="source systems" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-20" y="40" width="100" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-19" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;review&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;predefined data rule definitions is available in the default catalog&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;create data rule definitions -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;logical expressions using supported operators&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Data rules apply the logic specified in the selected data rule definition to the physical data.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;create ruleset definitions -&amp;nbsp;&lt;/font&gt;select more than one data rule definition or data rule&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;Rule sets are created from rule set definitions, which consist of many data rule definitions or data rules.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-20" edge="1">
+          <mxGeometry x="-0.5266" y="-110" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="1400" />
+              <mxPoint x="-240" y="1400" />
+            </Array>
+            <mxPoint x="469.5" y="1400" as="targetPoint" />
+            <mxPoint x="-110" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-410" y="1400" />
+              <mxPoint x="-410" y="1340" />
+              <mxPoint x="470" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-88" value="import/export rules and definitions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-87" vertex="1" connectable="0">
+          <mxGeometry x="-0.4945" y="-2" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-91" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create automation rules to&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;automate the process of governing your data&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;run automation rules&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-20" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry x="-0.2396" relative="1" as="geometry">
+            <mxPoint x="370" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-410" y="1400" />
+              <mxPoint x="-410" y="1470" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;possesses&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Manage governance &lt;br style=&quot;font-size: 14px;&quot;&gt;artifact permission&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1369" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Install WKC using cpd tool&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-22" target="m7c62PFlQVcXENg2-71l-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="310" />
+              <mxPoint x="-10" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-22" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="330" />
+              <mxPoint x="-240" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;setup the default catalog, if LDAP is used, set for quick scan&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.1003" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8.670000000000002" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-95" value="create virtual tables" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-22" target="m7c62PFlQVcXENg2-71l-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-475" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;admin of the project(namespace)&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-30" target="m7c62PFlQVcXENg2-71l-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="200" />
+              <mxPoint x="-10" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Set the timezone for the master node,&lt;br style=&quot;font-size: 14px;&quot;&gt;run the cpd adm command&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.0648" y="1" relative="1" as="geometry">
+            <mxPoint x="-149.66" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Openshift cluster admin&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-22" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-475" y="340" as="sourcePoint" />
+            <mxPoint x="-50" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-475" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-43" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;(optional) scale up the service, review analysis db settings&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-42" vertex="1" connectable="0">
+          <mxGeometry x="0.1347" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-44" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-290" y="420" />
+              <mxPoint x="-290" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-48" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create catalogs, add assets and collaborators&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define asset access - public/private&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-47" vertex="1" connectable="0">
+          <mxGeometry x="0.4632" y="-283" relative="1" as="geometry">
+            <mxPoint x="-380" y="-283" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-44" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="460" />
+              <mxPoint x="-90" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-55" value="add new classifications/import from a csv file (3 predefined classifications: SPI, PII, confidential),&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;assign the classification to a category, send for approval" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.036" y="-1" relative="1" as="geometry">
+            <mxPoint x="-358" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User with manage catalog permission&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;dashed=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="m7c62PFlQVcXENg2-71l-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-885" y="390" />
+              <mxPoint x="-170" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-51" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Types of assets&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Files from your local system, including structured data, unstructured data, and images.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Connections to data sources.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;Data assets from a connection to a data source.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Folder assets from a connection to a file system.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Data assets from analytics projects.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Notebooks from analytics projects.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Trained Watson Machine Learning models from analytics projects.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Dashboards from analytics projects.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-1040" y="-40" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;dashed=1;" parent="1" source="m7c62PFlQVcXENg2-71l-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;dashed=1;" parent="1" source="m7c62PFlQVcXENg2-71l-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;dashed=1;" parent="1" source="m7c62PFlQVcXENg2-71l-57" edge="1">
+          <mxGeometry x="0.661" relative="1" as="geometry">
+            <mxPoint x="-40" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="520" />
+              <mxPoint x="-40" y="620" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;dashed=1;" parent="1" source="m7c62PFlQVcXENg2-71l-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-57" value="local storage" style="shape=dataStorage;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-530" y="500" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-59" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="600" />
+              <mxPoint x="240" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-61" value="add local file as data asset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-60" vertex="1" connectable="0">
+          <mxGeometry x="-0.7923" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-59" value="user with admin or &lt;br style=&quot;font-size: 14px;&quot;&gt;editor role in the catalog" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-62" value="save file to catalog storage&lt;br style=&quot;font-size: 14px;&quot;&gt;If format is CSV/Avro/Parquet and uncompressed, perform automatic profiling" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-5" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="610" />
+              <mxPoint x="560" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-64" value="Automated profiling should be enabled" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="710" y="470" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-66" value="assign data classes (predefined+custom)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-5" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="760" />
+              <mxPoint x="560" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-68" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define new data classes, assign a primary category and send for publish&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define matching method:&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;1. no automatic matching&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;2. match to a list of values or reference data set&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;3. match using regex&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;4. match using a java class&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;5. define a threshold value&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-67" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry x="-0.2992" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-475" y="750" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-74" value="add reference data set (csv) and send for publish" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-67" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-475" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-67" value="user with&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Manage governance artifact permission&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="710" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-75" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;run column analysis (assign data type, data class and format)&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;assign business terms&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;analyze data quality (missing values, data class violations)&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;publish results to default catalog&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-5" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="860" />
+              <mxPoint x="500" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;perform further tasks&lt;/b&gt; -&amp;nbsp;&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px;&quot;&gt;concatenation of data from one or more columns to create virtual columns, &lt;br style=&quot;font-size: 14px;&quot;&gt;join multiple tables to create SQL virtual tables&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;modify analysis settings&lt;/b&gt; (e.g. threshold values)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;perform further analysis&lt;/b&gt; (data quality analysis, column analysis, column similarity analysis, &lt;br style=&quot;font-size: 14px;&quot;&gt;primary key analysis, relationship analysis, overlap analysis)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-76" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry x="0.2911" y="-470" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="991" />
+              <mxPoint x="140" y="991" />
+            </Array>
+            <mxPoint x="-470" y="-470" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-76" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="961" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-80" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create governance policy&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create governance rules&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;assign governance rule to business terms, classification, reference data&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;assign the governance rule to a category&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="0.871" y="560" relative="1" as="geometry">
+            <mxPoint x="-460" y="1100" as="sourcePoint" />
+            <mxPoint x="470" y="1099.9354838709678" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1100" />
+              <mxPoint x="450" y="1100" />
+            </Array>
+            <mxPoint x="-560" y="560" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;create data protection rules (&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;A data protection rule consists of criteria that specify &lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;which data to control and an action that specifies how to prevent access to that data)&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#323232&quot; style=&quot;font-size: 14px;&quot;&gt;Actions: (1) Deny access (2) Mask data (redact/substitute/obfuscate)&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;align=left;" parent="1" source="m7c62PFlQVcXENg2-71l-79" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry x="-0.6289" relative="1" as="geometry">
+            <mxPoint x="470" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-410" y="1100" />
+              <mxPoint x="-410" y="1170" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-79" target="m7c62PFlQVcXENg2-71l-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="1100" />
+              <mxPoint x="-410" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-83" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;create business terms, import from a csv file,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;define relationships among business terms&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;relate a term to a classification or data class&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-82" vertex="1" connectable="0">
+          <mxGeometry x="-0.1465" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-79" value="user with&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Manage governance &lt;br style=&quot;font-size: 14px;&quot;&gt;artifact permission&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1070" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-86" value="add business glossary (category and business terms)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="1232" as="sourcePoint" />
+            <mxPoint x="469.8333333333335" y="1232" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="1232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-85" value="Industry accelerators" style="shape=dataStorage;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="1210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-90" value="xml format" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="1330" as="targetPoint" />
+            <mxPoint x="-413.5" y="1305" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-240" y="1305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-89" value="local storage" style="shape=dataStorage;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-513.5" y="1278" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471.1852213541667" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-94" value="comply with data regulations (GDPR/CCPA/FERPA)&lt;br style=&quot;font-size: 14px;&quot;&gt;create a regulatory compliance project, perform business term &lt;br style=&quot;font-size: 14px;&quot;&gt;mapping and data asset mapping (auto/manual)" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="m7c62PFlQVcXENg2-71l-93" vertex="1" connectable="0">
+          <mxGeometry x="-0.3476" y="1" relative="1" as="geometry">
+            <mxPoint x="-180.33" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7c62PFlQVcXENg2-71l-92" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Regulatory Accelerator&lt;/span&gt;&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&amp;nbsp;service&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-555" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-1" value="&lt;b&gt;administrator tasks&lt;/b&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="100" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-8" target="IsnBaX-UXQkgkAbF29E4-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="1758" />
+              <mxPoint x="-260" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-23" value="metdata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="IsnBaX-UXQkgkAbF29E4-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.4002" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-8" value="External Applications" style="shape=dataStorage;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-545" y="1718" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-9" target="IsnBaX-UXQkgkAbF29E4-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="1865" />
+              <mxPoint x="-260" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-22" value="data models" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="IsnBaX-UXQkgkAbF29E4-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.4468" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-9" value="Databases" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-532.5" y="1820" width="75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XwHpWZ4ftV7QXHC5Zp1C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.901;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="IsnBaX-UXQkgkAbF29E4-13" target="m7c62PFlQVcXENg2-71l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwHpWZ4ftV7QXHC5Zp1C-2" value="analyze, preview and share in the catalog" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="XwHpWZ4ftV7QXHC5Zp1C-1">
+          <mxGeometry x="-0.1061" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-13" value="Import metadata &lt;br style=&quot;font-size: 14px;&quot;&gt;in staging area" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1766" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-18" target="IsnBaX-UXQkgkAbF29E4-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-18" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;metadata import bridges&lt;br style=&quot;font-size: 14px;&quot;&gt;metadata import connectors&lt;br style=&quot;font-size: 14px;&quot;&gt;OpenIGC bridges&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-224" y="1771" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;" parent="1" source="IsnBaX-UXQkgkAbF29E4-26" target="IsnBaX-UXQkgkAbF29E4-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-26" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;External Applications&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Bridges&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ErWin, IBM Cognos, InfoSphere Data Architect, DB2, Microsoft SSRS, Microstrategy, Oracle, QlikView, SAP, Tableau,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Connectors&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Amazon S3, HDFS, Greenplum, JDBC, ODBC, Oracle, Netezza, Teradata, DB2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;OpenIGC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Informatica Power Center, Talend, SSIS, Files (Excel, XML, Avro, Parquet, JSON), Oracle and Teradata DML scripts&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="1600" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="IsnBaX-UXQkgkAbF29E4-28" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="1930" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
