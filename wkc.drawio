@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T12:11:45.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="uTA53ZkPk8-kpzLxPQjy" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T12:14:49.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="5z68k3D6DOYa03e14N9s" version="13.4.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2909" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="m7c62PFlQVcXENg2-71l-2" value="submit catalog request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-3" target="m7c62PFlQVcXENg2-71l-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="240" />
-              <mxPoint x="310" y="240" />
+              <mxPoint x="380" y="240" />
+              <mxPoint x="380" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,8 +71,8 @@
         <mxCell id="m7c62PFlQVcXENg2-71l-96" value="access source systems &lt;br&gt;through connections" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=14;" parent="1" source="m7c62PFlQVcXENg2-71l-17" target="m7c62PFlQVcXENg2-71l-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="180" />
-              <mxPoint x="270" y="180" />
+              <mxPoint x="160" y="190" />
+              <mxPoint x="160" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
